@@ -1,0 +1,1652 @@
+[
+    {
+        "Id":  "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
+        "CreatedUtc":  "2026-03-14T09:20:00Z",
+        "UpdatedUtc":  "2026-03-14T09:20:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "6894b384-9bd8-495c-840a-06081b41cee4",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 001 for element PW-001",
+        "InspectionDateUtc":  "2026-03-14T09:00:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/6894b384-9bd8-495c-840a-06081b41cee4/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "4a038543-88a2-450a-b84c-b4b3a847ace1",
+        "CreatedUtc":  "2026-03-13T09:31:00Z",
+        "UpdatedUtc":  "2026-03-13T09:31:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "8c33f3f2-f80a-456d-a777-100612bb21c0",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 002 for element VL-002",
+        "InspectionDateUtc":  "2026-03-13T09:11:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/8c33f3f2-f80a-456d-a777-100612bb21c0/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "b2fddfd9-00c6-467d-9765-de6683ea02f6",
+        "CreatedUtc":  "2026-03-12T09:42:00Z",
+        "UpdatedUtc":  "2026-03-12T09:42:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "3c8f3e14-9327-40da-809e-2528d237589b",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 003 for element VB-003",
+        "InspectionDateUtc":  "2026-03-12T09:22:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3c8f3e14-9327-40da-809e-2528d237589b/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "7a2394ee-9dab-4926-bf97-7b5f974e438d",
+        "CreatedUtc":  "2026-03-11T09:53:00Z",
+        "UpdatedUtc":  "2026-03-11T09:53:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 004 for element DL-004",
+        "InspectionDateUtc":  "2026-03-11T09:33:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/f2004892-42f2-4ba1-8ee0-cf4356ee53c9/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "3033ebd8-9189-41bb-b6f5-99e5f805ce7f",
+        "CreatedUtc":  "2026-03-10T10:04:00Z",
+        "UpdatedUtc":  "2026-03-10T10:04:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "ecae689b-0b22-43e6-b597-1de0df48faae",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 005 for element PW-005",
+        "InspectionDateUtc":  "2026-03-10T09:44:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/ecae689b-0b22-43e6-b597-1de0df48faae/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "aaa31108-22ee-4c7e-8d2e-7d70444f8ee9",
+        "CreatedUtc":  "2026-03-09T10:15:00Z",
+        "UpdatedUtc":  "2026-03-09T10:15:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "4805978c-d782-4b2f-af65-1b1e396d0b86",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 006 for element VL-006",
+        "InspectionDateUtc":  "2026-03-09T09:55:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/4805978c-d782-4b2f-af65-1b1e396d0b86/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "ceacbb97-e6ae-4347-8e1f-aae41dc924db",
+        "CreatedUtc":  "2026-03-08T10:26:00Z",
+        "UpdatedUtc":  "2026-03-08T10:26:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "b1272eb3-6505-4779-8005-f9c860b55834",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 007 for element VB-007",
+        "InspectionDateUtc":  "2026-03-08T10:06:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/b1272eb3-6505-4779-8005-f9c860b55834/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "6d8a7853-21f1-42e5-b71b-7466d71f50be",
+        "CreatedUtc":  "2026-03-07T10:37:00Z",
+        "UpdatedUtc":  "2026-03-07T10:37:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "001aca3b-4d66-49fd-8e6c-07c84b7a6e4a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 008 for element DL-008",
+        "InspectionDateUtc":  "2026-03-07T10:17:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/001aca3b-4d66-49fd-8e6c-07c84b7a6e4a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "c6dcdc71-1d0f-4f76-ad7d-8e9176e2ec1c",
+        "CreatedUtc":  "2026-03-06T10:48:00Z",
+        "UpdatedUtc":  "2026-03-06T10:48:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "daf25441-cc5c-42ef-9bd5-6e07f46b867e",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 009 for element PW-009",
+        "InspectionDateUtc":  "2026-03-06T10:28:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/daf25441-cc5c-42ef-9bd5-6e07f46b867e/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "333ad435-633b-4f6a-ad85-7e517526ee5e",
+        "CreatedUtc":  "2026-03-05T10:59:00Z",
+        "UpdatedUtc":  "2026-03-05T10:59:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "74f037d6-7376-4cad-9dfb-22cb306a8202",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 010 for element VL-010",
+        "InspectionDateUtc":  "2026-03-05T10:39:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/74f037d6-7376-4cad-9dfb-22cb306a8202/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "8e9f65b2-ef66-4296-b1fc-60c216e8244a",
+        "CreatedUtc":  "2026-03-04T11:10:00Z",
+        "UpdatedUtc":  "2026-03-04T11:10:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "8cd4e08e-e182-49a4-8202-fe63d36f43cf",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 011 for element VB-011",
+        "InspectionDateUtc":  "2026-03-04T10:50:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/8cd4e08e-e182-49a4-8202-fe63d36f43cf/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "23aef31c-9ebf-4338-ad33-aea1fc7be909",
+        "CreatedUtc":  "2026-03-03T11:21:00Z",
+        "UpdatedUtc":  "2026-03-03T11:21:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "2bf9400e-5ad2-4da8-b75c-c853e5b4e509",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 012 for element DL-012",
+        "InspectionDateUtc":  "2026-03-03T11:01:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/2bf9400e-5ad2-4da8-b75c-c853e5b4e509/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "6c341446-22a4-40e0-8dd9-7342985cddb2",
+        "CreatedUtc":  "2026-03-02T11:32:00Z",
+        "UpdatedUtc":  "2026-03-02T11:32:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "e891846f-4d66-4dbf-bcd7-5f9153dffee6",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 013 for element PW-013",
+        "InspectionDateUtc":  "2026-03-02T11:12:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/e891846f-4d66-4dbf-bcd7-5f9153dffee6/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "47eb1547-06a4-49b8-9dc2-0048298439fe",
+        "CreatedUtc":  "2026-03-01T11:43:00Z",
+        "UpdatedUtc":  "2026-03-01T11:43:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "49e8961a-a70b-46cd-ad09-73803eb472ef",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 014 for element VL-014",
+        "InspectionDateUtc":  "2026-03-01T11:23:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/49e8961a-a70b-46cd-ad09-73803eb472ef/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "890def0b-a5a3-492e-add5-0c6a727e5c6b",
+        "CreatedUtc":  "2026-02-28T11:54:00Z",
+        "UpdatedUtc":  "2026-02-28T11:54:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "35d2c4e1-6e58-44fd-9a29-2017f3d58964",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 015 for element VB-015",
+        "InspectionDateUtc":  "2026-02-28T11:34:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/35d2c4e1-6e58-44fd-9a29-2017f3d58964/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "f0c817f0-0569-4f85-9f23-930e8886c149",
+        "CreatedUtc":  "2026-02-27T12:05:00Z",
+        "UpdatedUtc":  "2026-02-27T12:05:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "85c25603-daf6-4047-aaeb-bc69378938af",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 016 for element DL-016",
+        "InspectionDateUtc":  "2026-02-27T11:45:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/85c25603-daf6-4047-aaeb-bc69378938af/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "a7ade39a-e6da-43dd-95f0-56c7560f9546",
+        "CreatedUtc":  "2026-02-26T12:16:00Z",
+        "UpdatedUtc":  "2026-02-26T12:16:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "bee75a7b-523c-4cd5-ae4d-c0c6b1fe11ec",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 017 for element PW-017",
+        "InspectionDateUtc":  "2026-02-26T11:56:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/bee75a7b-523c-4cd5-ae4d-c0c6b1fe11ec/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "2a602a81-a8dd-4f58-852f-f1d2551ec4ae",
+        "CreatedUtc":  "2026-02-25T12:27:00Z",
+        "UpdatedUtc":  "2026-02-25T12:27:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "9b86392d-ac5d-44a4-bbf6-b3d8548bf8aa",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 018 for element VL-018",
+        "InspectionDateUtc":  "2026-02-25T12:07:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/9b86392d-ac5d-44a4-bbf6-b3d8548bf8aa/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "2309c694-b9df-4897-ae5a-2cead39790ba",
+        "CreatedUtc":  "2026-03-14T12:38:00Z",
+        "UpdatedUtc":  "2026-03-14T12:38:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "a63e67ff-02fa-4b14-8b2c-915a07fcc8f5",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 019 for element VB-019",
+        "InspectionDateUtc":  "2026-03-14T12:18:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/a63e67ff-02fa-4b14-8b2c-915a07fcc8f5/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "18e4bde1-5050-4e28-8a3d-cf267794d168",
+        "CreatedUtc":  "2026-03-13T12:49:00Z",
+        "UpdatedUtc":  "2026-03-13T12:49:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "5130b8e6-e6d8-40e2-ac85-b61b1b1920f0",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 020 for element DL-020",
+        "InspectionDateUtc":  "2026-03-13T12:29:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/5130b8e6-e6d8-40e2-ac85-b61b1b1920f0/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "ca9afb6a-1914-47a1-88cb-9502abe05a62",
+        "CreatedUtc":  "2026-03-12T13:00:00Z",
+        "UpdatedUtc":  "2026-03-12T13:00:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "f2a02f53-290c-4957-a47d-ee2a86ae619b",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 021 for element PW-021",
+        "InspectionDateUtc":  "2026-03-12T12:40:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/f2a02f53-290c-4957-a47d-ee2a86ae619b/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "842e4613-a560-429c-8b75-521fa77c8170",
+        "CreatedUtc":  "2026-03-11T13:11:00Z",
+        "UpdatedUtc":  "2026-03-11T13:11:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "3d57ab53-1a6f-4de9-b6d1-f2875d3b7ba6",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 022 for element VL-022",
+        "InspectionDateUtc":  "2026-03-11T12:51:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3d57ab53-1a6f-4de9-b6d1-f2875d3b7ba6/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "97ce1086-f690-4423-aba0-7abd9ad95a17",
+        "CreatedUtc":  "2026-03-10T13:22:00Z",
+        "UpdatedUtc":  "2026-03-10T13:22:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "c7badb29-8c18-4bcf-a4f3-66f76552cedf",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 023 for element VB-023",
+        "InspectionDateUtc":  "2026-03-10T13:02:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/c7badb29-8c18-4bcf-a4f3-66f76552cedf/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "27effc10-01ac-4708-b612-8d2237b9038e",
+        "CreatedUtc":  "2026-03-09T13:33:00Z",
+        "UpdatedUtc":  "2026-03-09T13:33:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "aa86692b-fd8b-46e9-a779-969acd0a960f",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 024 for element DL-024",
+        "InspectionDateUtc":  "2026-03-09T13:13:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/aa86692b-fd8b-46e9-a779-969acd0a960f/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "8cd4b6ba-fc55-4030-87e4-3925e309b409",
+        "CreatedUtc":  "2026-03-08T13:44:00Z",
+        "UpdatedUtc":  "2026-03-08T13:44:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "d2f1170b-7f5b-4790-af9f-914817b18e62",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 025 for element PW-025",
+        "InspectionDateUtc":  "2026-03-08T13:24:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/d2f1170b-7f5b-4790-af9f-914817b18e62/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "0e511134-ae0a-48de-ac43-507a0db635a2",
+        "CreatedUtc":  "2026-03-07T13:55:00Z",
+        "UpdatedUtc":  "2026-03-07T13:55:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "a8839824-0aed-445e-9a88-09ac3a020c53",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 026 for element VL-026",
+        "InspectionDateUtc":  "2026-03-07T13:35:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/a8839824-0aed-445e-9a88-09ac3a020c53/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "da3a5bf4-6fc5-4118-a04e-b6dc90401517",
+        "CreatedUtc":  "2026-03-06T14:06:00Z",
+        "UpdatedUtc":  "2026-03-06T14:06:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "40a80ac5-c50e-4409-b698-022f6b57de0c",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 027 for element VB-027",
+        "InspectionDateUtc":  "2026-03-06T13:46:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/40a80ac5-c50e-4409-b698-022f6b57de0c/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "5be4fc1f-c39e-4573-8730-466e2bc9539a",
+        "CreatedUtc":  "2026-03-05T14:17:00Z",
+        "UpdatedUtc":  "2026-03-05T14:17:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "c9b1a6c6-6ddb-4a36-ae5c-664e88c98aee",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 028 for element DL-028",
+        "InspectionDateUtc":  "2026-03-05T13:57:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/c9b1a6c6-6ddb-4a36-ae5c-664e88c98aee/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "2f9b1f2b-5f51-46e1-bb35-a002d71b7fd4",
+        "CreatedUtc":  "2026-03-04T14:28:00Z",
+        "UpdatedUtc":  "2026-03-04T14:28:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "1c5b392d-85cd-49e4-9521-8a7ebc8fd2c7",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 029 for element PW-029",
+        "InspectionDateUtc":  "2026-03-04T14:08:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/1c5b392d-85cd-49e4-9521-8a7ebc8fd2c7/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "04a19881-7df5-480b-af09-2db0efcc4c5f",
+        "CreatedUtc":  "2026-03-03T14:39:00Z",
+        "UpdatedUtc":  "2026-03-03T14:39:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "2fa4ae36-466b-4771-a094-e9f55943d029",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 030 for element VL-030",
+        "InspectionDateUtc":  "2026-03-03T14:19:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/2fa4ae36-466b-4771-a094-e9f55943d029/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "afb5fbe7-d3d7-4af2-9d53-07a9c602b43f",
+        "CreatedUtc":  "2026-03-02T14:50:00Z",
+        "UpdatedUtc":  "2026-03-02T14:50:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "cf365561-3534-4a31-840a-45758aa9204c",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 031 for element VB-031",
+        "InspectionDateUtc":  "2026-03-02T14:30:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/cf365561-3534-4a31-840a-45758aa9204c/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "6be3f982-fbb3-44f4-ad88-fdd3876d3d4d",
+        "CreatedUtc":  "2026-03-01T15:01:00Z",
+        "UpdatedUtc":  "2026-03-01T15:01:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "31ee5924-526f-4e98-84e0-4bfbe6938cea",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 032 for element DL-032",
+        "InspectionDateUtc":  "2026-03-01T14:41:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/31ee5924-526f-4e98-84e0-4bfbe6938cea/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "63cf86cf-8026-4a27-9160-ede83f2c1a3c",
+        "CreatedUtc":  "2026-02-28T15:12:00Z",
+        "UpdatedUtc":  "2026-02-28T15:12:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "9dd5cebc-ab54-41c6-91d1-3cafbeb88e1a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 033 for element PW-033",
+        "InspectionDateUtc":  "2026-02-28T14:52:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/9dd5cebc-ab54-41c6-91d1-3cafbeb88e1a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "7fe8305a-a855-4aa4-96a6-d7c5d3cfdaae",
+        "CreatedUtc":  "2026-02-27T15:23:00Z",
+        "UpdatedUtc":  "2026-02-27T15:23:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "3e475742-6580-4d25-b3b3-e312f67b017c",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 034 for element VL-034",
+        "InspectionDateUtc":  "2026-02-27T15:03:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3e475742-6580-4d25-b3b3-e312f67b017c/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "10ee5567-4791-418b-b365-7738567d6498",
+        "CreatedUtc":  "2026-02-26T15:34:00Z",
+        "UpdatedUtc":  "2026-02-26T15:34:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "d09f4ae1-dec3-465e-890a-0cda5a1d9331",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 035 for element VB-035",
+        "InspectionDateUtc":  "2026-02-26T15:14:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/d09f4ae1-dec3-465e-890a-0cda5a1d9331/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "0605426e-1634-4325-bada-1282afce1b62",
+        "CreatedUtc":  "2026-02-25T15:45:00Z",
+        "UpdatedUtc":  "2026-02-25T15:45:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "aaaf54d4-bd48-4867-984b-e0a00244e347",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 036 for element DL-036",
+        "InspectionDateUtc":  "2026-02-25T15:25:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/aaaf54d4-bd48-4867-984b-e0a00244e347/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "52cfd70a-d6eb-4a69-8bf2-6f99d4cc5bb4",
+        "CreatedUtc":  "2026-03-14T15:56:00Z",
+        "UpdatedUtc":  "2026-03-14T15:56:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "bc59c1f7-933c-4deb-918a-b5d883a08894",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 037 for element PW-037",
+        "InspectionDateUtc":  "2026-03-14T15:36:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/bc59c1f7-933c-4deb-918a-b5d883a08894/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "1329db60-ab7e-4ef6-99b8-db7129dd37d8",
+        "CreatedUtc":  "2026-03-13T16:07:00Z",
+        "UpdatedUtc":  "2026-03-13T16:07:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "4707655d-ca26-48b1-996c-962b990fc31a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 038 for element VL-038",
+        "InspectionDateUtc":  "2026-03-13T15:47:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/4707655d-ca26-48b1-996c-962b990fc31a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "1b276f15-97cd-4d9d-8da9-838b63c213e4",
+        "CreatedUtc":  "2026-03-12T16:18:00Z",
+        "UpdatedUtc":  "2026-03-12T16:18:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "3849a3af-e650-453e-8052-22ddf125d2b7",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 039 for element VB-039",
+        "InspectionDateUtc":  "2026-03-12T15:58:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3849a3af-e650-453e-8052-22ddf125d2b7/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "76b9ba1b-d5c1-4dc9-a534-e1fdb4c13819",
+        "CreatedUtc":  "2026-03-11T16:29:00Z",
+        "UpdatedUtc":  "2026-03-11T16:29:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "e7d51019-ad63-401e-a346-bef37e2ade94",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 040 for element DL-040",
+        "InspectionDateUtc":  "2026-03-11T16:09:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/e7d51019-ad63-401e-a346-bef37e2ade94/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "dc434a13-fb52-44d5-a7be-aee096979188",
+        "CreatedUtc":  "2026-03-10T16:40:00Z",
+        "UpdatedUtc":  "2026-03-10T16:40:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "07fd7f67-1d02-4c0f-a7fb-282cdce01aaf",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 041 for element PW-041",
+        "InspectionDateUtc":  "2026-03-10T16:20:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/07fd7f67-1d02-4c0f-a7fb-282cdce01aaf/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "a7a6e01b-fbeb-44b8-bd83-b32c31a46822",
+        "CreatedUtc":  "2026-03-09T16:51:00Z",
+        "UpdatedUtc":  "2026-03-09T16:51:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "8d14cfea-9121-428f-b45f-dbc6db6f32a1",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 042 for element VL-042",
+        "InspectionDateUtc":  "2026-03-09T16:31:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/8d14cfea-9121-428f-b45f-dbc6db6f32a1/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "b47ccc17-599b-4e90-8e69-5f74323b9294",
+        "CreatedUtc":  "2026-03-08T17:02:00Z",
+        "UpdatedUtc":  "2026-03-08T17:02:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "a3ee6be2-2bda-497e-bd26-aa532986245c",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 043 for element VB-043",
+        "InspectionDateUtc":  "2026-03-08T16:42:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/a3ee6be2-2bda-497e-bd26-aa532986245c/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "300bfc70-51da-4b03-b470-a36b193647a3",
+        "CreatedUtc":  "2026-03-07T17:13:00Z",
+        "UpdatedUtc":  "2026-03-07T17:13:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "d7c1b120-cf7b-44cc-8e11-5998b28eece8",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 044 for element DL-044",
+        "InspectionDateUtc":  "2026-03-07T16:53:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/d7c1b120-cf7b-44cc-8e11-5998b28eece8/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "fb4096cc-d0f6-496a-b94f-68c8be72eed8",
+        "CreatedUtc":  "2026-03-06T17:24:00Z",
+        "UpdatedUtc":  "2026-03-06T17:24:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "58f68e65-02ab-42a5-a74d-cab58809565a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 045 for element PW-045",
+        "InspectionDateUtc":  "2026-03-06T17:04:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/58f68e65-02ab-42a5-a74d-cab58809565a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "33429adb-fce1-4699-82ed-57b11b338180",
+        "CreatedUtc":  "2026-03-05T17:35:00Z",
+        "UpdatedUtc":  "2026-03-05T17:35:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "5db9290b-706a-40c0-8a34-c15f5100bbd3",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 046 for element VL-046",
+        "InspectionDateUtc":  "2026-03-05T17:15:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/5db9290b-706a-40c0-8a34-c15f5100bbd3/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "f4fe39d5-d74c-414d-8d16-2096c443fcb5",
+        "CreatedUtc":  "2026-03-04T17:46:00Z",
+        "UpdatedUtc":  "2026-03-04T17:46:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "0238d013-1091-46a8-af6c-bcfdf35be57c",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 047 for element VB-047",
+        "InspectionDateUtc":  "2026-03-04T17:26:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/0238d013-1091-46a8-af6c-bcfdf35be57c/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "bd4fae68-29b8-4f8d-864e-ef27d1471443",
+        "CreatedUtc":  "2026-03-03T17:57:00Z",
+        "UpdatedUtc":  "2026-03-03T17:57:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "82829483-4bb1-4a67-82d1-a627dfd1b619",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 048 for element DL-048",
+        "InspectionDateUtc":  "2026-03-03T17:37:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/82829483-4bb1-4a67-82d1-a627dfd1b619/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "023f4a8c-bcee-40c2-a8e4-db3642b9b017",
+        "CreatedUtc":  "2026-03-02T18:08:00Z",
+        "UpdatedUtc":  "2026-03-02T18:08:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "7c2aa3c5-bab5-4e75-baac-2a76c5af1999",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 049 for element PW-049",
+        "InspectionDateUtc":  "2026-03-02T17:48:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/7c2aa3c5-bab5-4e75-baac-2a76c5af1999/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "8ab75c1e-3249-4fc7-aba5-3840e465a935",
+        "CreatedUtc":  "2026-03-01T18:19:00Z",
+        "UpdatedUtc":  "2026-03-01T18:19:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "fe00e45a-c6be-418c-bd66-4bf79cb5b6ff",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 050 for element VL-050",
+        "InspectionDateUtc":  "2026-03-01T17:59:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/fe00e45a-c6be-418c-bd66-4bf79cb5b6ff/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "b29acd72-cb3d-418d-bda4-9f08232fed5a",
+        "CreatedUtc":  "2026-02-28T18:30:00Z",
+        "UpdatedUtc":  "2026-02-28T18:30:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "d6ede133-cda0-4ff1-9108-624a59cfc0f4",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 051 for element VB-051",
+        "InspectionDateUtc":  "2026-02-28T18:10:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/d6ede133-cda0-4ff1-9108-624a59cfc0f4/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "2439eea6-8bf9-4928-a862-737fadf11856",
+        "CreatedUtc":  "2026-02-27T18:41:00Z",
+        "UpdatedUtc":  "2026-02-27T18:41:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "0dd07834-c020-450e-8710-d2a6cf0ac5f6",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 052 for element DL-052",
+        "InspectionDateUtc":  "2026-02-27T18:21:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/0dd07834-c020-450e-8710-d2a6cf0ac5f6/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "f8260ad5-7e48-463d-b2ff-8e5f18755b8e",
+        "CreatedUtc":  "2026-02-26T18:52:00Z",
+        "UpdatedUtc":  "2026-02-26T18:52:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "07349aeb-48ea-44cb-be00-b1824629fe5f",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 053 for element PW-053",
+        "InspectionDateUtc":  "2026-02-26T18:32:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/07349aeb-48ea-44cb-be00-b1824629fe5f/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "87cd8c22-d7bb-4cd1-9c5c-cbdf38bcb2a0",
+        "CreatedUtc":  "2026-02-25T19:03:00Z",
+        "UpdatedUtc":  "2026-02-25T19:03:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "8c8261ee-b741-42ec-a45e-264e8661dd85",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 054 for element VL-054",
+        "InspectionDateUtc":  "2026-02-25T18:43:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/8c8261ee-b741-42ec-a45e-264e8661dd85/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "776ddfca-b765-42be-93fc-c4fefebec817",
+        "CreatedUtc":  "2026-03-14T19:14:00Z",
+        "UpdatedUtc":  "2026-03-14T19:14:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "92223c96-225d-467c-bbb8-73271270ad3d",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 055 for element VB-055",
+        "InspectionDateUtc":  "2026-03-14T18:54:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/92223c96-225d-467c-bbb8-73271270ad3d/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "faa3cbb2-65a8-4f59-915a-1d71cbf13aa6",
+        "CreatedUtc":  "2026-03-13T19:25:00Z",
+        "UpdatedUtc":  "2026-03-13T19:25:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "c43d4e13-b073-4ee2-8e15-70a19c8baac3",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 056 for element DL-056",
+        "InspectionDateUtc":  "2026-03-13T19:05:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/c43d4e13-b073-4ee2-8e15-70a19c8baac3/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "e8b2dd75-8ef6-4780-af2d-720ac728f14c",
+        "CreatedUtc":  "2026-03-12T19:36:00Z",
+        "UpdatedUtc":  "2026-03-12T19:36:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "54183bb6-9fd2-4473-ac85-f9c42f728a99",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 057 for element PW-057",
+        "InspectionDateUtc":  "2026-03-12T19:16:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/54183bb6-9fd2-4473-ac85-f9c42f728a99/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "715883fe-a0ea-42d7-8868-447a9e61d7c5",
+        "CreatedUtc":  "2026-03-11T19:47:00Z",
+        "UpdatedUtc":  "2026-03-11T19:47:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "7c8cfd73-a3e4-465a-8be7-1551cde0095a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 058 for element VL-058",
+        "InspectionDateUtc":  "2026-03-11T19:27:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/7c8cfd73-a3e4-465a-8be7-1551cde0095a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "acd1dfa5-b168-4b70-af5d-13640bb5f612",
+        "CreatedUtc":  "2026-03-10T19:58:00Z",
+        "UpdatedUtc":  "2026-03-10T19:58:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "f2c3c094-f3ca-4977-88c8-dbe67816feb0",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 059 for element VB-059",
+        "InspectionDateUtc":  "2026-03-10T19:38:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/f2c3c094-f3ca-4977-88c8-dbe67816feb0/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "a18b5b55-fe93-49d0-96c1-c8e7b471f9c6",
+        "CreatedUtc":  "2026-03-09T20:09:00Z",
+        "UpdatedUtc":  "2026-03-09T20:09:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "43e49adb-c18d-4520-a7ba-4c7d213a34fe",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 060 for element DL-060",
+        "InspectionDateUtc":  "2026-03-09T19:49:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/43e49adb-c18d-4520-a7ba-4c7d213a34fe/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "dfd0311a-e940-49d1-ab3f-7e925a9db139",
+        "CreatedUtc":  "2026-03-08T20:20:00Z",
+        "UpdatedUtc":  "2026-03-08T20:20:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "ecc3c985-a5fe-435d-9f39-c4b20c61544e",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 061 for element PW-061",
+        "InspectionDateUtc":  "2026-03-08T20:00:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/ecc3c985-a5fe-435d-9f39-c4b20c61544e/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "a254c7f5-792a-4e6b-b64b-454d1d62adfa",
+        "CreatedUtc":  "2026-03-07T20:31:00Z",
+        "UpdatedUtc":  "2026-03-07T20:31:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "905ef6de-c8a6-4e01-837b-060d92a40f1a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 062 for element VL-062",
+        "InspectionDateUtc":  "2026-03-07T20:11:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/905ef6de-c8a6-4e01-837b-060d92a40f1a/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "531a6fb4-06a4-4b33-b442-597d8b545099",
+        "CreatedUtc":  "2026-03-06T20:42:00Z",
+        "UpdatedUtc":  "2026-03-06T20:42:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "7a5e09df-7899-432a-bf7e-4fac0752a700",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 063 for element VB-063",
+        "InspectionDateUtc":  "2026-03-06T20:22:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/7a5e09df-7899-432a-bf7e-4fac0752a700/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "91f31c34-8de4-4a6e-96a4-878201f348f2",
+        "CreatedUtc":  "2026-03-05T20:53:00Z",
+        "UpdatedUtc":  "2026-03-05T20:53:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "c931b92c-f24a-495c-9b8d-e29755a0e377",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 064 for element DL-064",
+        "InspectionDateUtc":  "2026-03-05T20:33:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/c931b92c-f24a-495c-9b8d-e29755a0e377/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "5220e5e4-7e2b-4148-a48c-2677a8261dd5",
+        "CreatedUtc":  "2026-03-04T21:04:00Z",
+        "UpdatedUtc":  "2026-03-04T21:04:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "2ae2fb72-9dfb-4b44-8556-d98e56114d69",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 065 for element PW-065",
+        "InspectionDateUtc":  "2026-03-04T20:44:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/2ae2fb72-9dfb-4b44-8556-d98e56114d69/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "fe1f79c6-852c-42c7-8cc8-7ac3707c2cbc",
+        "CreatedUtc":  "2026-03-03T21:15:00Z",
+        "UpdatedUtc":  "2026-03-03T21:15:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "72196166-bfa6-4ee3-98ef-bdf11e7eb98d",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 066 for element VL-066",
+        "InspectionDateUtc":  "2026-03-03T20:55:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/72196166-bfa6-4ee3-98ef-bdf11e7eb98d/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "82baff73-150a-4c18-9c28-6d441eeb1796",
+        "CreatedUtc":  "2026-03-02T21:26:00Z",
+        "UpdatedUtc":  "2026-03-02T21:26:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "52ea7539-9b7a-46e3-ab96-a345e1a9d9dd",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 067 for element VB-067",
+        "InspectionDateUtc":  "2026-03-02T21:06:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/52ea7539-9b7a-46e3-ab96-a345e1a9d9dd/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "70c37e3e-c1be-4fea-8ec5-c4a7ab8a1a56",
+        "CreatedUtc":  "2026-03-01T21:37:00Z",
+        "UpdatedUtc":  "2026-03-01T21:37:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "249466bd-faf2-460e-a0ec-04396bd79598",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 068 for element DL-068",
+        "InspectionDateUtc":  "2026-03-01T21:17:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/249466bd-faf2-460e-a0ec-04396bd79598/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "9cf6d41d-5a1a-40c6-9314-ffc981e406f6",
+        "CreatedUtc":  "2026-02-28T21:48:00Z",
+        "UpdatedUtc":  "2026-02-28T21:48:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "34fd8e21-8489-4a19-af32-a882f0ad70ef",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 069 for element PW-069",
+        "InspectionDateUtc":  "2026-02-28T21:28:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/34fd8e21-8489-4a19-af32-a882f0ad70ef/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "e912fcbe-b8ed-4aa9-9117-27408505fa96",
+        "CreatedUtc":  "2026-02-27T21:59:00Z",
+        "UpdatedUtc":  "2026-02-27T21:59:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "03cbb256-67db-4129-b6fc-b61d370affb7",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 070 for element VL-070",
+        "InspectionDateUtc":  "2026-02-27T21:39:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/03cbb256-67db-4129-b6fc-b61d370affb7/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "4fcf9a3f-c9de-43e4-bd4a-e0ee74d5bb46",
+        "CreatedUtc":  "2026-02-26T22:10:00Z",
+        "UpdatedUtc":  "2026-02-26T22:10:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "91d17351-b524-475b-bbad-0e839da8e9f6",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 071 for element VB-071",
+        "InspectionDateUtc":  "2026-02-26T21:50:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/91d17351-b524-475b-bbad-0e839da8e9f6/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "be3972ec-256f-4206-9640-f3cdabef154f",
+        "CreatedUtc":  "2026-02-25T22:21:00Z",
+        "UpdatedUtc":  "2026-02-25T22:21:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "e4eb1b57-f75a-4b48-8843-2b6b921adc43",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 072 for element DL-072",
+        "InspectionDateUtc":  "2026-02-25T22:01:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/e4eb1b57-f75a-4b48-8843-2b6b921adc43/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "8fa23961-88f7-41cd-9f01-a75960683444",
+        "CreatedUtc":  "2026-03-14T22:32:00Z",
+        "UpdatedUtc":  "2026-03-14T22:32:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "3c41b8fc-210f-47c4-a93f-12bdf5b123a6",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Good",
+        "Action":  "Inspection",
+        "Comments":  "Inspection 073 for element PW-073",
+        "InspectionDateUtc":  "2026-03-14T22:12:00Z",
+        "User":  {
+                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
+                     "DisplayName":  "J.Silva",
+                     "Email":  "j.silva@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3c41b8fc-210f-47c4-a93f-12bdf5b123a6/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "89a8b327-8e31-4e49-b39a-d4e8bae00e55",
+        "CreatedUtc":  "2026-03-13T22:43:00Z",
+        "UpdatedUtc":  "2026-03-13T22:43:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "bbb02cf9-6b25-45d9-bd29-6a12ac7b557e",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "Acceptable",
+        "Action":  "Repair",
+        "Comments":  "Inspection 074 for element VL-074",
+        "InspectionDateUtc":  "2026-03-13T22:23:00Z",
+        "User":  {
+                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
+                     "DisplayName":  "A.Costa",
+                     "Email":  "a.costa@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/bbb02cf9-6b25-45d9-bd29-6a12ac7b557e/photo-001.jpg"
+                       }
+                   ]
+    },
+    {
+        "Id":  "bc26621e-b433-4437-a9bd-df11e4297e75",
+        "CreatedUtc":  "2026-03-12T22:54:00Z",
+        "UpdatedUtc":  "2026-03-12T22:54:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "19833a18-ae08-4edd-ac20-3a7c1bbcb41a",
+        "DiagramId":  "b02c119d-73ca-4578-a88f-9246361474cf",
+        "Status":  "AtRisk",
+        "Action":  "Treatment",
+        "Comments":  "Inspection 075 for element VB-075",
+        "InspectionDateUtc":  "2026-03-12T22:34:00Z",
+        "User":  {
+                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
+                     "DisplayName":  "M.Pereira",
+                     "Email":  "m.pereira@subsea7.com"
+                 },
+        "Photos":  [
+                       {
+                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/19833a18-ae08-4edd-ac20-3a7c1bbcb41a/photo-001.jpg"
+                       }
+                   ]
+    }
+]
