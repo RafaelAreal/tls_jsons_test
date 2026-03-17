@@ -1,8 +1,13 @@
-{
-    "PlsvId":  "4042025b-e9b1-45a1-a906-149adffcc5fb",
-    "DiagramCount":  2,
-    "ElementCount":  200,
-    "InspectionCount":  75,
-    "InspectedElementCount":  75,
-    "UninspectedElementCount":  125
-}
+[
+    {
+        "PlsvId":  "4042025b-e9b1-45a1-a906-149adffcc5fb",
+        "DiagramCount":  2,
+        "ElementCount":  200,
+        "InspectionCount":  75,
+        "InspectedElementCount":  75,
+        "UninspectedElementCount":  125,
+        "InspectionGood": 45,
+        "InspectionAcceptable": 20,
+        "InspectionAtRisk": 10
+    }
+]
