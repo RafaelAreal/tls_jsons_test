@@ -1,19 +1,17 @@
-{
-    [
-        {
-            "Id":  "66966a8c-d69a-42ee-9d3c-c7f1b0fd8662",
-            "CreatedUtc":  "2026-03-14T09:20:00Z",
-            "UpdatedUtc":  "2026-03-14T09:20:00Z",
-            "IsDeleted":  false,
-            "ElementId":  "6894b384-9bd8-495c-840a-06081b41cee4",
-            "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
-            "PlsvId":  "4042025b-e9b1-45a1-a906-149adffcc5fb",
-            "Tag": "CRZ-P1535-TM",
-            "Detail": "ø140x3 // Deck service valve",
-            "Status": "Good",
-            "Action": "Repair",
-            "Comments": "Minor vibration noticed during operation; monitoring recommended.",
-            "DisplayName": "John Peterson"
-        }
-    ]
-}
+[
+    {
+        "Id":  "66966a8c-d69a-42ee-9d3c-c7f1b0fd8662",
+        "CreatedUtc":  "2026-03-14T09:20:00Z",
+        "UpdatedUtc":  "2026-03-14T09:20:00Z",
+        "IsDeleted":  false,
+        "ElementId":  "6894b384-9bd8-495c-840a-06081b41cee4",
+        "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
+        "PlsvId":  "4042025b-e9b1-45a1-a906-149adffcc5fb",
+        "Tag": "CRZ-P1535-TM",
+        "Detail": "ø140x3 // Deck service valve",
+        "Status": "Good",
+        "Action": "Repair",
+        "Comments": "Minor vibration noticed during operation; monitoring recommended.",
+        "DisplayName": "John Peterson"
+    }
+]
