@@ -1,72 +1,6 @@
 [
     {
         "Id":  "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
-        "CreatedUtc":  "2026-03-14T09:20:00Z",
-        "UpdatedUtc":  "2026-03-14T09:20:00Z",
-        "IsDeleted":  false,
-        "ElementId":  "6894b384-9bd8-495c-840a-06081b41cee4",
-        "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status":  "Good",
-        "Action":  "Inspection",
-        "Comments":  "Inspection 001 for element PW-001",
-        "InspectionDateUtc":  "2026-03-14T09:00:00Z",
-        "User":  {
-                     "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-                     "DisplayName":  "J.Silva",
-                     "Email":  "j.silva@subsea7.com"
-                 },
-        "Photos":  [
-                       {
-                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/6894b384-9bd8-495c-840a-06081b41cee4/photo-001.jpg"
-                       }
-                   ]
-    },
-    {
-        "Id":  "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
-        "CreatedUtc":  "2026-03-13T09:31:00Z",
-        "UpdatedUtc":  "2026-03-13T09:31:00Z",
-        "IsDeleted":  false,
-        "ElementId":  "8c33f3f2-f80a-456d-a777-100612bb21c0",
-        "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status":  "Acceptable",
-        "Action":  "Repair",
-        "Comments":  "Inspection 002 for element VL-002",
-        "InspectionDateUtc":  "2026-03-13T09:11:00Z",
-        "User":  {
-                     "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-                     "DisplayName":  "A.Costa",
-                     "Email":  "a.costa@subsea7.com"
-                 },
-        "Photos":  [
-                       {
-                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/8c33f3f2-f80a-456d-a777-100612bb21c0/photo-001.jpg"
-                       }
-                   ]
-    },
-    {
-        "Id":  "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
-        "CreatedUtc":  "2026-03-12T09:42:00Z",
-        "UpdatedUtc":  "2026-03-12T09:42:00Z",
-        "IsDeleted":  false,
-        "ElementId":  "3c8f3e14-9327-40da-809e-2528d237589b",
-        "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status":  "AtRisk",
-        "Action":  "Treatment",
-        "Comments":  "Inspection 003 for element VB-003",
-        "InspectionDateUtc":  "2026-03-12T09:22:00Z",
-        "User":  {
-                     "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-                     "DisplayName":  "M.Pereira",
-                     "Email":  "m.pereira@subsea7.com"
-                 },
-        "Photos":  [
-                       {
-                           "Url":  "https://example.blob.core.windows.net/tls-uploads/inspections/3c8f3e14-9327-40da-809e-2528d237589b/photo-001.jpg"
-                       }
-                   ]
-    },
-    {
-        "Id":  "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
         "CreatedUtc":  "2026-03-11T09:53:00Z",
         "UpdatedUtc":  "2026-03-11T09:53:00Z",
         "IsDeleted":  false,
@@ -92,7 +26,7 @@
         "CreatedUtc":  "2026-03-10T10:04:00Z",
         "UpdatedUtc":  "2026-03-10T10:04:00Z",
         "IsDeleted":  false,
-        "ElementId":  "ecae689b-0b22-43e6-b597-1de0df48faae",
+        "ElementId":  "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
         "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
         "Status":  "Acceptable",
         "Action":  "Repair",
@@ -114,7 +48,7 @@
         "CreatedUtc":  "2026-03-09T10:15:00Z",
         "UpdatedUtc":  "2026-03-09T10:15:00Z",
         "IsDeleted":  false,
-        "ElementId":  "4805978c-d782-4b2f-af65-1b1e396d0b86",
+        "ElementId":  "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
         "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
         "Status":  "AtRisk",
         "Action":  "Treatment",
@@ -136,7 +70,7 @@
         "CreatedUtc":  "2026-03-08T10:26:00Z",
         "UpdatedUtc":  "2026-03-08T10:26:00Z",
         "IsDeleted":  false,
-        "ElementId":  "b1272eb3-6505-4779-8005-f9c860b55834",
+        "ElementId":  "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
         "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
         "Status":  "Good",
         "Action":  "Inspection",
@@ -158,7 +92,7 @@
         "CreatedUtc":  "2026-03-07T10:37:00Z",
         "UpdatedUtc":  "2026-03-07T10:37:00Z",
         "IsDeleted":  false,
-        "ElementId":  "001aca3b-4d66-49fd-8e6c-07c84b7a6e4a",
+        "ElementId":  "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
         "DiagramId":  "18c66e3a-4823-49c0-b401-50633db9d7e6",
         "Status":  "Acceptable",
         "Action":  "Repair",
