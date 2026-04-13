@@ -9,7 +9,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 004 for element DL-004",
-        "InspectionDateUtc":  "2026-03-11T09:33:00Z",
+        "inspectionDateUtc":  "2026-03-11T09:33:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -31,7 +31,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 005 for element PW-005",
-        "InspectionDateUtc":  "2026-03-10T09:44:00Z",
+        "inspectionDateUtc":  "2026-03-10T09:44:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -53,7 +53,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 006 for element VL-006",
-        "InspectionDateUtc":  "2026-03-09T09:55:00Z",
+        "inspectionDateUtc":  "2026-03-09T09:55:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -75,7 +75,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 007 for element VB-007",
-        "InspectionDateUtc":  "2026-03-08T10:06:00Z",
+        "inspectionDateUtc":  "2026-03-08T10:06:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -97,7 +97,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 008 for element DL-008",
-        "InspectionDateUtc":  "2026-03-07T10:17:00Z",
+        "inspectionDateUtc":  "2026-03-07T10:17:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -119,7 +119,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 009 for element PW-009",
-        "InspectionDateUtc":  "2026-03-06T10:28:00Z",
+        "inspectionDateUtc":  "2026-03-06T10:28:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -141,7 +141,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 010 for element VL-010",
-        "InspectionDateUtc":  "2026-03-05T10:39:00Z",
+        "inspectionDateUtc":  "2026-03-05T10:39:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -163,7 +163,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 011 for element VB-011",
-        "InspectionDateUtc":  "2026-03-04T10:50:00Z",
+        "inspectionDateUtc":  "2026-03-04T10:50:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -185,7 +185,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 012 for element DL-012",
-        "InspectionDateUtc":  "2026-03-03T11:01:00Z",
+        "inspectionDateUtc":  "2026-03-03T11:01:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -207,7 +207,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 013 for element PW-013",
-        "InspectionDateUtc":  "2026-03-02T11:12:00Z",
+        "inspectionDateUtc":  "2026-03-02T11:12:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -229,7 +229,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 014 for element VL-014",
-        "InspectionDateUtc":  "2026-03-01T11:23:00Z",
+        "inspectionDateUtc":  "2026-03-01T11:23:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -251,7 +251,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 015 for element VB-015",
-        "InspectionDateUtc":  "2026-02-28T11:34:00Z",
+        "inspectionDateUtc":  "2026-02-28T11:34:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -273,7 +273,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 016 for element DL-016",
-        "InspectionDateUtc":  "2026-02-27T11:45:00Z",
+        "inspectionDateUtc":  "2026-02-27T11:45:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -295,7 +295,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 017 for element PW-017",
-        "InspectionDateUtc":  "2026-02-26T11:56:00Z",
+        "inspectionDateUtc":  "2026-02-26T11:56:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -317,7 +317,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 018 for element VL-018",
-        "InspectionDateUtc":  "2026-02-25T12:07:00Z",
+        "inspectionDateUtc":  "2026-02-25T12:07:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -339,7 +339,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 019 for element VB-019",
-        "InspectionDateUtc":  "2026-03-14T12:18:00Z",
+        "inspectionDateUtc":  "2026-03-14T12:18:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -361,7 +361,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 020 for element DL-020",
-        "InspectionDateUtc":  "2026-03-13T12:29:00Z",
+        "inspectionDateUtc":  "2026-03-13T12:29:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -383,7 +383,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 021 for element PW-021",
-        "InspectionDateUtc":  "2026-03-12T12:40:00Z",
+        "inspectionDateUtc":  "2026-03-12T12:40:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -405,7 +405,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 022 for element VL-022",
-        "InspectionDateUtc":  "2026-03-11T12:51:00Z",
+        "inspectionDateUtc":  "2026-03-11T12:51:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -427,7 +427,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 023 for element VB-023",
-        "InspectionDateUtc":  "2026-03-10T13:02:00Z",
+        "inspectionDateUtc":  "2026-03-10T13:02:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -449,7 +449,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 024 for element DL-024",
-        "InspectionDateUtc":  "2026-03-09T13:13:00Z",
+        "inspectionDateUtc":  "2026-03-09T13:13:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -471,7 +471,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 025 for element PW-025",
-        "InspectionDateUtc":  "2026-03-08T13:24:00Z",
+        "inspectionDateUtc":  "2026-03-08T13:24:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -493,7 +493,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 026 for element VL-026",
-        "InspectionDateUtc":  "2026-03-07T13:35:00Z",
+        "inspectionDateUtc":  "2026-03-07T13:35:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -515,7 +515,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 027 for element VB-027",
-        "InspectionDateUtc":  "2026-03-06T13:46:00Z",
+        "inspectionDateUtc":  "2026-03-06T13:46:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -537,7 +537,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 028 for element DL-028",
-        "InspectionDateUtc":  "2026-03-05T13:57:00Z",
+        "inspectionDateUtc":  "2026-03-05T13:57:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -559,7 +559,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 029 for element PW-029",
-        "InspectionDateUtc":  "2026-03-04T14:08:00Z",
+        "inspectionDateUtc":  "2026-03-04T14:08:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -581,7 +581,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 030 for element VL-030",
-        "InspectionDateUtc":  "2026-03-03T14:19:00Z",
+        "inspectionDateUtc":  "2026-03-03T14:19:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -603,7 +603,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 031 for element VB-031",
-        "InspectionDateUtc":  "2026-03-02T14:30:00Z",
+        "inspectionDateUtc":  "2026-03-02T14:30:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -625,7 +625,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 032 for element DL-032",
-        "InspectionDateUtc":  "2026-03-01T14:41:00Z",
+        "inspectionDateUtc":  "2026-03-01T14:41:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -647,7 +647,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 033 for element PW-033",
-        "InspectionDateUtc":  "2026-02-28T14:52:00Z",
+        "inspectionDateUtc":  "2026-02-28T14:52:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -669,7 +669,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 034 for element VL-034",
-        "InspectionDateUtc":  "2026-02-27T15:03:00Z",
+        "inspectionDateUtc":  "2026-02-27T15:03:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -691,7 +691,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 035 for element VB-035",
-        "InspectionDateUtc":  "2026-02-26T15:14:00Z",
+        "inspectionDateUtc":  "2026-02-26T15:14:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -713,7 +713,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 036 for element DL-036",
-        "InspectionDateUtc":  "2026-02-25T15:25:00Z",
+        "inspectionDateUtc":  "2026-02-25T15:25:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -735,7 +735,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 037 for element PW-037",
-        "InspectionDateUtc":  "2026-03-14T15:36:00Z",
+        "inspectionDateUtc":  "2026-03-14T15:36:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -757,7 +757,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 038 for element VL-038",
-        "InspectionDateUtc":  "2026-03-13T15:47:00Z",
+        "inspectionDateUtc":  "2026-03-13T15:47:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -779,7 +779,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 039 for element VB-039",
-        "InspectionDateUtc":  "2026-03-12T15:58:00Z",
+        "inspectionDateUtc":  "2026-03-12T15:58:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -801,7 +801,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 040 for element DL-040",
-        "InspectionDateUtc":  "2026-03-11T16:09:00Z",
+        "inspectionDateUtc":  "2026-03-11T16:09:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -823,7 +823,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 041 for element PW-041",
-        "InspectionDateUtc":  "2026-03-10T16:20:00Z",
+        "inspectionDateUtc":  "2026-03-10T16:20:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -845,7 +845,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 042 for element VL-042",
-        "InspectionDateUtc":  "2026-03-09T16:31:00Z",
+        "inspectionDateUtc":  "2026-03-09T16:31:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -867,7 +867,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 043 for element VB-043",
-        "InspectionDateUtc":  "2026-03-08T16:42:00Z",
+        "inspectionDateUtc":  "2026-03-08T16:42:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -889,7 +889,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 044 for element DL-044",
-        "InspectionDateUtc":  "2026-03-07T16:53:00Z",
+        "inspectionDateUtc":  "2026-03-07T16:53:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -911,7 +911,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 045 for element PW-045",
-        "InspectionDateUtc":  "2026-03-06T17:04:00Z",
+        "inspectionDateUtc":  "2026-03-06T17:04:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -933,7 +933,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 046 for element VL-046",
-        "InspectionDateUtc":  "2026-03-05T17:15:00Z",
+        "inspectionDateUtc":  "2026-03-05T17:15:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -955,7 +955,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 047 for element VB-047",
-        "InspectionDateUtc":  "2026-03-04T17:26:00Z",
+        "inspectionDateUtc":  "2026-03-04T17:26:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -977,7 +977,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 048 for element DL-048",
-        "InspectionDateUtc":  "2026-03-03T17:37:00Z",
+        "inspectionDateUtc":  "2026-03-03T17:37:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -999,7 +999,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 049 for element PW-049",
-        "InspectionDateUtc":  "2026-03-02T17:48:00Z",
+        "inspectionDateUtc":  "2026-03-02T17:48:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1021,7 +1021,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 050 for element VL-050",
-        "InspectionDateUtc":  "2026-03-01T17:59:00Z",
+        "inspectionDateUtc":  "2026-03-01T17:59:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1043,7 +1043,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 051 for element VB-051",
-        "InspectionDateUtc":  "2026-02-28T18:10:00Z",
+        "inspectionDateUtc":  "2026-02-28T18:10:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1065,7 +1065,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 052 for element DL-052",
-        "InspectionDateUtc":  "2026-02-27T18:21:00Z",
+        "inspectionDateUtc":  "2026-02-27T18:21:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1087,7 +1087,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 053 for element PW-053",
-        "InspectionDateUtc":  "2026-02-26T18:32:00Z",
+        "inspectionDateUtc":  "2026-02-26T18:32:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1109,7 +1109,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 054 for element VL-054",
-        "InspectionDateUtc":  "2026-02-25T18:43:00Z",
+        "inspectionDateUtc":  "2026-02-25T18:43:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1131,7 +1131,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 055 for element VB-055",
-        "InspectionDateUtc":  "2026-03-14T18:54:00Z",
+        "inspectionDateUtc":  "2026-03-14T18:54:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1153,7 +1153,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 056 for element DL-056",
-        "InspectionDateUtc":  "2026-03-13T19:05:00Z",
+        "inspectionDateUtc":  "2026-03-13T19:05:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1175,7 +1175,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 057 for element PW-057",
-        "InspectionDateUtc":  "2026-03-12T19:16:00Z",
+        "inspectionDateUtc":  "2026-03-12T19:16:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1197,7 +1197,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 058 for element VL-058",
-        "InspectionDateUtc":  "2026-03-11T19:27:00Z",
+        "inspectionDateUtc":  "2026-03-11T19:27:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1219,7 +1219,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 059 for element VB-059",
-        "InspectionDateUtc":  "2026-03-10T19:38:00Z",
+        "inspectionDateUtc":  "2026-03-10T19:38:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1241,7 +1241,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 060 for element DL-060",
-        "InspectionDateUtc":  "2026-03-09T19:49:00Z",
+        "inspectionDateUtc":  "2026-03-09T19:49:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1263,7 +1263,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 061 for element PW-061",
-        "InspectionDateUtc":  "2026-03-08T20:00:00Z",
+        "inspectionDateUtc":  "2026-03-08T20:00:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1285,7 +1285,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 062 for element VL-062",
-        "InspectionDateUtc":  "2026-03-07T20:11:00Z",
+        "inspectionDateUtc":  "2026-03-07T20:11:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1307,7 +1307,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 063 for element VB-063",
-        "InspectionDateUtc":  "2026-03-06T20:22:00Z",
+        "inspectionDateUtc":  "2026-03-06T20:22:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1329,7 +1329,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 064 for element DL-064",
-        "InspectionDateUtc":  "2026-03-05T20:33:00Z",
+        "inspectionDateUtc":  "2026-03-05T20:33:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1351,7 +1351,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 065 for element PW-065",
-        "InspectionDateUtc":  "2026-03-04T20:44:00Z",
+        "inspectionDateUtc":  "2026-03-04T20:44:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1373,7 +1373,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 066 for element VL-066",
-        "InspectionDateUtc":  "2026-03-03T20:55:00Z",
+        "inspectionDateUtc":  "2026-03-03T20:55:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1395,7 +1395,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 067 for element VB-067",
-        "InspectionDateUtc":  "2026-03-02T21:06:00Z",
+        "inspectionDateUtc":  "2026-03-02T21:06:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1417,7 +1417,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 068 for element DL-068",
-        "InspectionDateUtc":  "2026-03-01T21:17:00Z",
+        "inspectionDateUtc":  "2026-03-01T21:17:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1439,7 +1439,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 069 for element PW-069",
-        "InspectionDateUtc":  "2026-02-28T21:28:00Z",
+        "inspectionDateUtc":  "2026-02-28T21:28:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1461,7 +1461,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 070 for element VL-070",
-        "InspectionDateUtc":  "2026-02-27T21:39:00Z",
+        "inspectionDateUtc":  "2026-02-27T21:39:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1483,7 +1483,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 071 for element VB-071",
-        "InspectionDateUtc":  "2026-02-26T21:50:00Z",
+        "inspectionDateUtc":  "2026-02-26T21:50:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1505,7 +1505,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 072 for element DL-072",
-        "InspectionDateUtc":  "2026-02-25T22:01:00Z",
+        "inspectionDateUtc":  "2026-02-25T22:01:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
@@ -1527,7 +1527,7 @@
         "Status":  "Good",
         "Action":  "Inspection",
         "Comments":  "Inspection 073 for element PW-073",
-        "InspectionDateUtc":  "2026-03-14T22:12:00Z",
+        "inspectionDateUtc":  "2026-03-14T22:12:00Z",
         "User":  {
                      "PlayFabId":  "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
                      "DisplayName":  "J.Silva",
@@ -1549,7 +1549,7 @@
         "Status":  "Acceptable",
         "Action":  "Repair",
         "Comments":  "Inspection 074 for element VL-074",
-        "InspectionDateUtc":  "2026-03-13T22:23:00Z",
+        "inspectionDateUtc":  "2026-03-13T22:23:00Z",
         "User":  {
                      "PlayFabId":  "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
                      "DisplayName":  "A.Costa",
@@ -1571,7 +1571,7 @@
         "Status":  "AtRisk",
         "Action":  "Treatment",
         "Comments":  "Inspection 075 for element VB-075",
-        "InspectionDateUtc":  "2026-03-12T22:34:00Z",
+        "inspectionDateUtc":  "2026-03-12T22:34:00Z",
         "User":  {
                      "PlayFabId":  "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
                      "DisplayName":  "M.Pereira",
