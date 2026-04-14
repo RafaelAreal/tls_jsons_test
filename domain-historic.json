@@ -3,7 +3,7 @@
         "ElementId": "tOmmf9Xd",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -19,7 +19,7 @@
         "ElementId": "fJWy6egN",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-02-04T08:02:30Z",
         "User": {
@@ -32,7 +32,7 @@
         "ElementId": "pBWccQpb",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             3
         ],
@@ -48,7 +48,7 @@
         "ElementId": "3bgjQEAH",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-02-11T23:55:14Z",
         "User": {
@@ -61,7 +61,7 @@
         "ElementId": "3T37LWnX",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-06-16T08:38:43Z",
         "User": {
@@ -74,7 +74,7 @@
         "ElementId": "3y2y26TH",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -89,7 +89,7 @@
         "ElementId": "KuSPPdVI",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             1
         ],
@@ -105,7 +105,7 @@
         "ElementId": "LdOSWChk",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-12-12T13:16:40Z",
         "User": {
@@ -118,7 +118,7 @@
         "ElementId": "Dc9AQmq3",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -133,7 +133,7 @@
         "ElementId": "5qEENvOq",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-04-04T15:39:15Z",
         "User": {
@@ -146,7 +146,7 @@
         "ElementId": "yrim4XFk",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-09-12T17:28:00Z",
         "User": {
@@ -159,7 +159,7 @@
         "ElementId": "AOd8oa6b",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-04-23T20:34:14Z",
         "User": {
@@ -172,7 +172,7 @@
         "ElementId": "ZYvIIlnG",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-12-19T15:42:15Z",
         "User": {
@@ -185,7 +185,7 @@
         "ElementId": "Kca9EJtc",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-03-30T08:35:07Z",
         "User": {
@@ -198,7 +198,7 @@
         "ElementId": "ZdA9PD7Q",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -214,7 +214,7 @@
         "ElementId": "qm8V5lA1",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3,
             1
@@ -231,7 +231,7 @@
         "ElementId": "qpScauU0",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             1
         ],
@@ -247,7 +247,7 @@
         "ElementId": "S9B7DPTn",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -262,7 +262,7 @@
         "ElementId": "9atwPGVA",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-10-01T04:35:30Z",
         "User": {
@@ -275,7 +275,7 @@
         "ElementId": "46igN1ve",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-07-07T18:46:13Z",
         "User": {
@@ -288,7 +288,7 @@
         "ElementId": "hRsUTu4D",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             1
         ],
@@ -304,7 +304,7 @@
         "ElementId": "ReED4aM4",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -320,7 +320,7 @@
         "ElementId": "a1RQPvsI",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-01-11T02:46:38Z",
         "User": {
@@ -333,7 +333,7 @@
         "ElementId": "fHAi0xKb",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-03-08T09:10:40Z",
         "User": {
@@ -346,7 +346,7 @@
         "ElementId": "twQ0FBSo",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             3
         ],
@@ -362,7 +362,7 @@
         "ElementId": "indKFAf5",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -378,7 +378,7 @@
         "ElementId": "MNU1pmos",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -393,7 +393,7 @@
         "ElementId": "8KPgE7Lv",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-03-07T08:48:57Z",
         "User": {
@@ -406,7 +406,7 @@
         "ElementId": "doFTH8Na",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2
         ],
         "Comments": "Auto-generated test data",
@@ -421,7 +421,7 @@
         "ElementId": "yieCRn84",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-10-29T23:29:04Z",
         "User": {
@@ -434,7 +434,7 @@
         "ElementId": "UCTxNcDh",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-01-17T06:25:26Z",
         "User": {
@@ -447,7 +447,7 @@
         "ElementId": "Q5epDgV7",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -462,7 +462,7 @@
         "ElementId": "CmvtiehI",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-01-04T07:15:02Z",
         "User": {
@@ -475,7 +475,7 @@
         "ElementId": "Usmg0wrR",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3
         ],
         "Comments": "Auto-generated test data",
@@ -490,7 +490,7 @@
         "ElementId": "jgyOebvG",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             2,
             1
@@ -507,7 +507,7 @@
         "ElementId": "CabaMCk6",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-06-16T03:14:52Z",
         "User": {
@@ -520,7 +520,7 @@
         "ElementId": "KybWuLmQ",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -536,7 +536,7 @@
         "ElementId": "wopGm1Iq",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -552,7 +552,7 @@
         "ElementId": "MDY3rc49",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-09-28T18:00:17Z",
         "User": {
@@ -565,7 +565,7 @@
         "ElementId": "QILiwFnu",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             1
         ],
@@ -581,7 +581,7 @@
         "ElementId": "rKFYKo96",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-05-03T00:44:22Z",
         "User": {
@@ -594,7 +594,7 @@
         "ElementId": "ni6OAyqL",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             3,
             2
@@ -611,7 +611,7 @@
         "ElementId": "bLDj8gMv",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -627,7 +627,7 @@
         "ElementId": "9xx7D9ga",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             1
         ],
@@ -643,7 +643,7 @@
         "ElementId": "hCJUI8xy",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-11-02T20:14:28Z",
         "User": {
@@ -656,7 +656,7 @@
         "ElementId": "Bzycoykh",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-12-03T22:11:11Z",
         "User": {
@@ -669,7 +669,7 @@
         "ElementId": "zEJRxxZa",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-01-02T19:34:04Z",
         "User": {
@@ -682,7 +682,7 @@
         "ElementId": "tYyaCE5z",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3,
             1
@@ -699,7 +699,7 @@
         "ElementId": "KAAG50QZ",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -715,7 +715,7 @@
         "ElementId": "GN7GuVar",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-10-15T02:57:54Z",
         "User": {
@@ -728,7 +728,7 @@
         "ElementId": "gwhL6LIs",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-01-09T02:45:30Z",
         "User": {
@@ -741,7 +741,7 @@
         "ElementId": "0hmmaHXB",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-09-12T08:01:50Z",
         "User": {
@@ -754,7 +754,7 @@
         "ElementId": "4RJYmI9Y",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-05-03T17:59:54Z",
         "User": {
@@ -767,7 +767,7 @@
         "ElementId": "KDtw5vn6",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -783,7 +783,7 @@
         "ElementId": "WHYc5cNv",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-02-20T05:14:16Z",
         "User": {
@@ -796,7 +796,7 @@
         "ElementId": "XVDSxbWf",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-12-25T05:12:37Z",
         "User": {
@@ -809,7 +809,7 @@
         "ElementId": "eqNZB1aT",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             1
         ],
@@ -825,7 +825,7 @@
         "ElementId": "qbjPU4Cu",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -840,7 +840,7 @@
         "ElementId": "rFbPQ5QZ",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-10-20T23:28:12Z",
         "User": {
@@ -853,7 +853,7 @@
         "ElementId": "cLmsAmu5",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             1,
             3
@@ -870,7 +870,7 @@
         "ElementId": "JyySCrJs",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -885,7 +885,7 @@
         "ElementId": "sexKwjju",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-05-26T01:51:28Z",
         "User": {
@@ -898,7 +898,7 @@
         "ElementId": "wo06lefo",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             3
         ],
@@ -914,7 +914,7 @@
         "ElementId": "9aThCBrx",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             2
         ],
@@ -930,7 +930,7 @@
         "ElementId": "ocs8lvcy",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -945,7 +945,7 @@
         "ElementId": "IEC8L2Nf",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -960,7 +960,7 @@
         "ElementId": "BfqBVuyk",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-01-15T01:30:58Z",
         "User": {
@@ -973,7 +973,7 @@
         "ElementId": "OIcynl5d",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-06-19T10:24:33Z",
         "User": {
@@ -986,7 +986,7 @@
         "ElementId": "5sSh5q9j",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -1001,7 +1001,7 @@
         "ElementId": "e7VXzOV1",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2
         ],
         "Comments": "Auto-generated test data",
@@ -1016,7 +1016,7 @@
         "ElementId": "lMLTbkxW",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-03-07T10:12:33Z",
         "User": {
@@ -1029,7 +1029,7 @@
         "ElementId": "kcqJUIVn",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -1044,7 +1044,7 @@
         "ElementId": "9RmVIJIV",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3
         ],
         "Comments": "Auto-generated test data",
@@ -1059,7 +1059,7 @@
         "ElementId": "i3Y4hqMF",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3
         ],
         "Comments": "Auto-generated test data",
@@ -1074,7 +1074,7 @@
         "ElementId": "xubjfU4Y",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-08-26T04:50:32Z",
         "User": {
@@ -1087,7 +1087,7 @@
         "ElementId": "Wqk0PcpM",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -1103,7 +1103,7 @@
         "ElementId": "ehknC5D2",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3,
             1
@@ -1120,7 +1120,7 @@
         "ElementId": "hWNFht7U",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-05-20T13:06:59Z",
         "User": {
@@ -1133,7 +1133,7 @@
         "ElementId": "iabuKsEi",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-08-22T16:30:29Z",
         "User": {
@@ -1146,7 +1146,7 @@
         "ElementId": "GXWWyqOb",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             1
         ],
@@ -1162,7 +1162,7 @@
         "ElementId": "XevLbH2D",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -1178,7 +1178,7 @@
         "ElementId": "B7FDlequ",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -1193,7 +1193,7 @@
         "ElementId": "KhOVDjcR",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             1,
             3
@@ -1210,7 +1210,7 @@
         "ElementId": "FbXwGTZr",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2026-01-23T04:08:24Z",
         "User": {
@@ -1223,7 +1223,7 @@
         "ElementId": "GVsX2RJM",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3
         ],
@@ -1239,7 +1239,7 @@
         "ElementId": "0b0TVa89",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             2,
             1
@@ -1256,7 +1256,7 @@
         "ElementId": "GRqElzbN",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             3,
             1
         ],
@@ -1272,7 +1272,7 @@
         "ElementId": "MPmz8vqZ",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -1288,7 +1288,7 @@
         "ElementId": "yODGXxvH",
         "DiagramId": "pqJMtUcn",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1
         ],
         "Comments": "Auto-generated test data",
@@ -1303,7 +1303,7 @@
         "ElementId": "OkW77Ka0",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -1319,7 +1319,7 @@
         "ElementId": "kiOwVOzw",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
@@ -1335,7 +1335,7 @@
         "ElementId": "6qgv803c",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-10-17T23:43:58Z",
         "User": {
@@ -1348,7 +1348,7 @@
         "ElementId": "CXiF0D0Z",
         "DiagramId": "z3s7Ywtm",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             2,
             3
@@ -1365,7 +1365,7 @@
         "ElementId": "gqtJM1IG",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             1,
             3
         ],
@@ -1381,7 +1381,7 @@
         "ElementId": "MeQmJfuG",
         "DiagramId": "z3s7Ywtm",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2025-11-06T22:22:40Z",
         "User": {
@@ -1394,7 +1394,7 @@
         "ElementId": "B3t30NOU",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3,
             1
@@ -1411,7 +1411,7 @@
         "ElementId": "shCYEaYS",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3,
             1
@@ -1428,7 +1428,7 @@
         "ElementId": "eSs388St",
         "DiagramId": "pqJMtUcn",
         "Status": 1,
-        "Action": [],
+        "Actions": [],
         "Comments": "Auto-generated test data",
         "InspectionDateUtc": "2024-05-10T20:53:56Z",
         "User": {
@@ -1441,7 +1441,7 @@
         "ElementId": "07XPxVwt",
         "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Action": [
+        "Actions": [
             2,
             3
         ],
@@ -1457,7 +1457,7 @@
         "ElementId": "RG0eqOnC",
         "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Action": [
+        "Actions": [
             1,
             2
         ],
