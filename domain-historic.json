@@ -1,1754 +1,1472 @@
 [
     {
-        "Id": "57dba7f2-e0d2-4da3-ad31-0f420917dd6b",
-        "CreatedUtc": "2026-03-11T09:53:00Z",
-        "UpdatedUtc": "2026-03-11T09:53:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 004 for element DL-004",
-        "inspectionDateUtc": "2026-03-11T09:33:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/f2004892-42f2-4ba1-8ee0-cf4356ee53c9/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "3033ebd8-9189-41bb-b6f5-99e5f805ce7f",
-        "CreatedUtc": "2026-03-10T10:04:00Z",
-        "UpdatedUtc": "2026-03-10T10:04:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
+        "ElementId": "tOmmf9Xd",
+        "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Comments": "Inspection 005 for element PW-005",
-        "inspectionDateUtc": "2026-03-10T09:44:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/ecae689b-0b22-43e6-b597-1de0df48faae/photo-001.jpg"
-            }
-        ],
-        "Actions": [
+        "Action": [
             1,
             2
-        ]
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-09-20T05:32:53Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
     },
     {
-        "Id": "aaa31108-22ee-4c7e-8d2e-7d70444f8ee9",
-        "CreatedUtc": "2026-03-09T10:15:00Z",
-        "UpdatedUtc": "2026-03-09T10:15:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 006 for element VL-006",
-        "inspectionDateUtc": "2026-03-09T09:55:00Z",
+        "ElementId": "fJWy6egN",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-04T08:02:30Z",
         "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
+            "EntityId": "Fernanda Rodrigues",
+            "EntityType": "master_player_account"
         },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/4805978c-d782-4b2f-af65-1b1e396d0b86/photo-001.jpg"
-            }
+        "Photos": []
+    },
+    {
+        "ElementId": "pBWccQpb",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            1,
+            3
         ],
-        "Actions": [
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-12-18T19:30:00Z",
+        "User": {
+            "EntityId": "Maria Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "3bgjQEAH",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-02-11T23:55:14Z",
+        "User": {
+            "EntityId": "Carlos Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "3T37LWnX",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-06-16T08:38:43Z",
+        "User": {
+            "EntityId": "Ana Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "3y2y26TH",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-01T17:09:41Z",
+        "User": {
+            "EntityId": "Rafael Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "KuSPPdVI",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-04-16T07:28:25Z",
+        "User": {
+            "EntityId": "Lucas Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "LdOSWChk",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-12-12T13:16:40Z",
+        "User": {
+            "EntityId": "John Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Dc9AQmq3",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-03T07:19:28Z",
+        "User": {
+            "EntityId": "Carlos Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "5qEENvOq",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-04-04T15:39:15Z",
+        "User": {
+            "EntityId": "Ana Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "yrim4XFk",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-09-12T17:28:00Z",
+        "User": {
+            "EntityId": "Carlos Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "AOd8oa6b",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-04-23T20:34:14Z",
+        "User": {
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ZYvIIlnG",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-19T15:42:15Z",
+        "User": {
+            "EntityId": "Fernanda Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Kca9EJtc",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-30T08:35:07Z",
+        "User": {
+            "EntityId": "John Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ZdA9PD7Q",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-11-14T07:47:17Z",
+        "User": {
+            "EntityId": "Beatriz Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "qm8V5lA1",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-09-02T07:01:35Z",
+        "User": {
+            "EntityId": "Ana Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "qpScauU0",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-12T14:33:34Z",
+        "User": {
+            "EntityId": "Beatriz Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "S9B7DPTn",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-08-18T07:14:22Z",
+        "User": {
+            "EntityId": "John Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "9atwPGVA",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-01T04:35:30Z",
+        "User": {
+            "EntityId": "Maria Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "46igN1ve",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-07-07T18:46:13Z",
+        "User": {
+            "EntityId": "Pedro Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "hRsUTu4D",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-20T15:13:19Z",
+        "User": {
+            "EntityId": "Julia Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ReED4aM4",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-25T20:24:01Z",
+        "User": {
+            "EntityId": "Beatriz Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "a1RQPvsI",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-01-11T02:46:38Z",
+        "User": {
+            "EntityId": "Fernanda Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "fHAi0xKb",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-03-08T09:10:40Z",
+        "User": {
+            "EntityId": "Ana Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "twQ0FBSo",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            1,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-01T02:37:27Z",
+        "User": {
+            "EntityId": "Beatriz Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "indKFAf5",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-03-20T21:31:11Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "MNU1pmos",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-07T17:47:41Z",
+        "User": {
+            "EntityId": "Rafael Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "8KPgE7Lv",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-03-07T08:48:57Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "doFTH8Na",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-08-08T21:21:06Z",
+        "User": {
+            "EntityId": "Beatriz Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "yieCRn84",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-10-29T23:29:04Z",
+        "User": {
+            "EntityId": "Rafael Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "UCTxNcDh",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-17T06:25:26Z",
+        "User": {
+            "EntityId": "John Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Q5epDgV7",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-07T05:45:31Z",
+        "User": {
+            "EntityId": "Maria Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "CmvtiehI",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-04T07:15:02Z",
+        "User": {
+            "EntityId": "Rafael Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Usmg0wrR",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-27T09:36:01Z",
+        "User": {
+            "EntityId": "Julia Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "jgyOebvG",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3,
+            2,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-22T21:51:57Z",
+        "User": {
+            "EntityId": "Julia Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "CabaMCk6",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-06-16T03:14:52Z",
+        "User": {
+            "EntityId": "Ana Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "KybWuLmQ",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-31T05:28:40Z",
+        "User": {
+            "EntityId": "Fernanda Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "wopGm1Iq",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-03-13T09:02:46Z",
+        "User": {
+            "EntityId": "Rafael Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "MDY3rc49",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-09-28T18:00:17Z",
+        "User": {
+            "EntityId": "Beatriz Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "QILiwFnu",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-02-20T15:32:52Z",
+        "User": {
+            "EntityId": "Beatriz Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "rKFYKo96",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-05-03T00:44:22Z",
+        "User": {
+            "EntityId": "Rafael Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ni6OAyqL",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            1,
+            3,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-30T17:27:59Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "bLDj8gMv",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-03-23T23:46:50Z",
+        "User": {
+            "EntityId": "Lucas Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "9xx7D9ga",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-01-14T20:57:58Z",
+        "User": {
+            "EntityId": "Maria Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "hCJUI8xy",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-11-02T20:14:28Z",
+        "User": {
+            "EntityId": "Maria Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Bzycoykh",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-03T22:11:11Z",
+        "User": {
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "zEJRxxZa",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-01-02T19:34:04Z",
+        "User": {
+            "EntityId": "Rafael Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "tYyaCE5z",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2,
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-06-27T17:29:08Z",
+        "User": {
+            "EntityId": "Carlos Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "KAAG50QZ",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-03-10T14:52:44Z",
+        "User": {
+            "EntityId": "Pedro Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "GN7GuVar",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-10-15T02:57:54Z",
+        "User": {
+            "EntityId": "Maria Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "gwhL6LIs",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-09T02:45:30Z",
+        "User": {
+            "EntityId": "Pedro Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "0hmmaHXB",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-09-12T08:01:50Z",
+        "User": {
+            "EntityId": "Julia Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "4RJYmI9Y",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-05-03T17:59:54Z",
+        "User": {
+            "EntityId": "Beatriz Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "KDtw5vn6",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-02T19:58:03Z",
+        "User": {
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "WHYc5cNv",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-20T05:14:16Z",
+        "User": {
+            "EntityId": "Fernanda Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "XVDSxbWf",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-25T05:12:37Z",
+        "User": {
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "eqNZB1aT",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-08-22T01:42:18Z",
+        "User": {
+            "EntityId": "Maria Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "qbjPU4Cu",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-31T05:47:40Z",
+        "User": {
+            "EntityId": "Rafael Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "rFbPQ5QZ",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-20T23:28:12Z",
+        "User": {
+            "EntityId": "Julia Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "cLmsAmu5",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            1,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-05-26T21:40:41Z",
+        "User": {
+            "EntityId": "Pedro Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "JyySCrJs",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-09T05:16:18Z",
+        "User": {
+            "EntityId": "Beatriz Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "sexKwjju",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-05-26T01:51:28Z",
+        "User": {
+            "EntityId": "Rafael Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "wo06lefo",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            1,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-28T05:16:26Z",
+        "User": {
+            "EntityId": "Rafael Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "9aThCBrx",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            3,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-30T21:48:10Z",
+        "User": {
+            "EntityId": "Julia Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ocs8lvcy",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-02-12T15:09:21Z",
+        "User": {
+            "EntityId": "Carlos Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "IEC8L2Nf",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-02-04T19:58:17Z",
+        "User": {
+            "EntityId": "Julia Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "BfqBVuyk",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-15T01:30:58Z",
+        "User": {
+            "EntityId": "Maria Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "OIcynl5d",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-06-19T10:24:33Z",
+        "User": {
+            "EntityId": "Julia Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "5sSh5q9j",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-07-22T02:13:33Z",
+        "User": {
+            "EntityId": "Beatriz Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "e7VXzOV1",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-09-02T00:19:54Z",
+        "User": {
+            "EntityId": "Carlos Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "lMLTbkxW",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-03-07T10:12:33Z",
+        "User": {
+            "EntityId": "John Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "kcqJUIVn",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-06T05:33:21Z",
+        "User": {
+            "EntityId": "Pedro Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "9RmVIJIV",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-09-22T17:52:28Z",
+        "User": {
+            "EntityId": "Maria Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "i3Y4hqMF",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-05T21:41:38Z",
+        "User": {
+            "EntityId": "John Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "xubjfU4Y",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-08-26T04:50:32Z",
+        "User": {
+            "EntityId": "Fernanda Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "Wqk0PcpM",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-03-13T16:45:00Z",
+        "User": {
+            "EntityId": "Pedro Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "ehknC5D2",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            2,
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-04-20T08:40:10Z",
+        "User": {
+            "EntityId": "John Silva",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "hWNFht7U",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-05-20T13:06:59Z",
+        "User": {
+            "EntityId": "John Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "iabuKsEi",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-08-22T16:30:29Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "GXWWyqOb",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-06-16T16:01:59Z",
+        "User": {
+            "EntityId": "Beatriz Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "XevLbH2D",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-08-30T16:07:17Z",
+        "User": {
+            "EntityId": "Pedro Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "B7FDlequ",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-08-30T07:00:15Z",
+        "User": {
+            "EntityId": "Rafael Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "KhOVDjcR",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            1,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-12-26T02:05:46Z",
+        "User": {
+            "EntityId": "Maria Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "FbXwGTZr",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-23T04:08:24Z",
+        "User": {
+            "EntityId": "Maria Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "GVsX2RJM",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-02-19T13:32:49Z",
+        "User": {
+            "EntityId": "Maria Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "0b0TVa89",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            3,
+            2,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-01-17T21:39:22Z",
+        "User": {
+            "EntityId": "Beatriz Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "GRqElzbN",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-02-12T05:15:26Z",
+        "User": {
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "MPmz8vqZ",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-10-18T06:23:58Z",
+        "User": {
+            "EntityId": "Lucas Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "yODGXxvH",
+        "DiagramId": "pqJMtUcn",
+        "Status": 2,
+        "Action": [
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-11-30T03:25:10Z",
+        "User": {
+            "EntityId": "Julia Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "OkW77Ka0",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-09-12T13:20:29Z",
+        "User": {
+            "EntityId": "Beatriz Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "kiOwVOzw",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 2,
+        "Action": [
+            1,
+            2
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-10-15T17:37:21Z",
+        "User": {
+            "EntityId": "Lucas Souza",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "6qgv803c",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-10-17T23:43:58Z",
+        "User": {
+            "EntityId": "Rafael Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "CXiF0D0Z",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 3,
+        "Action": [
             1,
             2,
             3
-        ]
-    },
-    {
-        "Id": "ceacbb97-e6ae-4347-8e1f-aae41dc924db",
-        "CreatedUtc": "2026-03-08T10:26:00Z",
-        "UpdatedUtc": "2026-03-08T10:26:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 007 for element VB-007",
-        "inspectionDateUtc": "2026-03-08T10:06:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/b1272eb3-6505-4779-8005-f9c860b55834/photo-001.jpg"
-            }
         ],
-        "Actions": []
-    },
-    {
-        "Id": "6d8a7853-21f1-42e5-b71b-7466d71f50be",
-        "CreatedUtc": "2026-03-07T10:37:00Z",
-        "UpdatedUtc": "2026-03-07T10:37:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2004892-42f2-4ba1-8ee0-cf4356ee53c9",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 008 for element DL-008",
-        "inspectionDateUtc": "2026-03-07T10:17:00Z",
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-06-15T14:19:50Z",
         "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
+            "EntityId": "Julia Rodrigues",
+            "EntityType": "master_player_account"
         },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/001aca3b-4d66-49fd-8e6c-07c84b7a6e4a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
+        "Photos": []
     },
     {
-        "Id": "c6dcdc71-1d0f-4f76-ad7d-8e9176e2ec1c",
-        "CreatedUtc": "2026-03-06T10:48:00Z",
-        "UpdatedUtc": "2026-03-06T10:48:00Z",
-        "IsDeleted": false,
-        "ElementId": "daf25441-cc5c-42ef-9bd5-6e07f46b867e",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
+        "ElementId": "gqtJM1IG",
+        "DiagramId": "pqJMtUcn",
         "Status": 3,
-        "Comments": "Inspection 009 for element PW-009",
-        "inspectionDateUtc": "2026-03-06T10:28:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/daf25441-cc5c-42ef-9bd5-6e07f46b867e/photo-001.jpg"
-            }
-        ],
-        "Actions": [
+        "Action": [
             1,
+            3
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-02-06T05:51:56Z",
+        "User": {
+            "EntityId": "Rafael Oliveira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "MeQmJfuG",
+        "DiagramId": "z3s7Ywtm",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-11-06T22:22:40Z",
+        "User": {
+            "EntityId": "Ana Rodrigues",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "B3t30NOU",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2025-04-27T20:13:06Z",
+        "User": {
+            "EntityId": "Pedro Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "shCYEaYS",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
+            2,
+            3,
+            1
+        ],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-07-22T00:00:07Z",
+        "User": {
+            "EntityId": "Lucas Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "eSs388St",
+        "DiagramId": "pqJMtUcn",
+        "Status": 1,
+        "Action": [],
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-05-10T20:53:56Z",
+        "User": {
+            "EntityId": "Julia Costa",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
+    },
+    {
+        "ElementId": "07XPxVwt",
+        "DiagramId": "pqJMtUcn",
+        "Status": 3,
+        "Action": [
             2,
             3
-        ]
-    },
-    {
-        "Id": "333ad435-633b-4f6a-ad85-7e517526ee5e",
-        "CreatedUtc": "2026-03-05T10:59:00Z",
-        "UpdatedUtc": "2026-03-05T10:59:00Z",
-        "IsDeleted": false,
-        "ElementId": "74f037d6-7376-4cad-9dfb-22cb306a8202",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 010 for element VL-010",
-        "inspectionDateUtc": "2026-03-05T10:39:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/74f037d6-7376-4cad-9dfb-22cb306a8202/photo-001.jpg"
-            }
         ],
-        "Actions": []
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2026-02-25T02:33:20Z",
+        "User": {
+            "EntityId": "Julia Pereira",
+            "EntityType": "master_player_account"
+        },
+        "Photos": []
     },
     {
-        "Id": "8e9f65b2-ef66-4296-b1fc-60c216e8244a",
-        "CreatedUtc": "2026-03-04T11:10:00Z",
-        "UpdatedUtc": "2026-03-04T11:10:00Z",
-        "IsDeleted": false,
-        "ElementId": "8cd4e08e-e182-49a4-8202-fe63d36f43cf",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
+        "ElementId": "RG0eqOnC",
+        "DiagramId": "z3s7Ywtm",
         "Status": 2,
-        "Comments": "Inspection 011 for element VB-011",
-        "inspectionDateUtc": "2026-03-04T10:50:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/8cd4e08e-e182-49a4-8202-fe63d36f43cf/photo-001.jpg"
-            }
-        ],
-        "Actions": [
+        "Action": [
             1,
             2
-        ]
-    },
-    {
-        "Id": "23aef31c-9ebf-4338-ad33-aea1fc7be909",
-        "CreatedUtc": "2026-03-03T11:21:00Z",
-        "UpdatedUtc": "2026-03-03T11:21:00Z",
-        "IsDeleted": false,
-        "ElementId": "2bf9400e-5ad2-4da8-b75c-c853e5b4e509",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 012 for element DL-012",
-        "inspectionDateUtc": "2026-03-03T11:01:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/2bf9400e-5ad2-4da8-b75c-c853e5b4e509/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "6c341446-22a4-40e0-8dd9-7342985cddb2",
-        "CreatedUtc": "2026-03-02T11:32:00Z",
-        "UpdatedUtc": "2026-03-02T11:32:00Z",
-        "IsDeleted": false,
-        "ElementId": "e891846f-4d66-4dbf-bcd7-5f9153dffee6",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 013 for element PW-013",
-        "inspectionDateUtc": "2026-03-02T11:12:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/e891846f-4d66-4dbf-bcd7-5f9153dffee6/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "47eb1547-06a4-49b8-9dc2-0048298439fe",
-        "CreatedUtc": "2026-03-01T11:43:00Z",
-        "UpdatedUtc": "2026-03-01T11:43:00Z",
-        "IsDeleted": false,
-        "ElementId": "49e8961a-a70b-46cd-ad09-73803eb472ef",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 014 for element VL-014",
-        "inspectionDateUtc": "2026-03-01T11:23:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/49e8961a-a70b-46cd-ad09-73803eb472ef/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "890def0b-a5a3-492e-add5-0c6a727e5c6b",
-        "CreatedUtc": "2026-02-28T11:54:00Z",
-        "UpdatedUtc": "2026-02-28T11:54:00Z",
-        "IsDeleted": false,
-        "ElementId": "35d2c4e1-6e58-44fd-9a29-2017f3d58964",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 015 for element VB-015",
-        "inspectionDateUtc": "2026-02-28T11:34:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/35d2c4e1-6e58-44fd-9a29-2017f3d58964/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "f0c817f0-0569-4f85-9f23-930e8886c149",
-        "CreatedUtc": "2026-02-27T12:05:00Z",
-        "UpdatedUtc": "2026-02-27T12:05:00Z",
-        "IsDeleted": false,
-        "ElementId": "85c25603-daf6-4047-aaeb-bc69378938af",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 016 for element DL-016",
-        "inspectionDateUtc": "2026-02-27T11:45:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/85c25603-daf6-4047-aaeb-bc69378938af/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "a7ade39a-e6da-43dd-95f0-56c7560f9546",
-        "CreatedUtc": "2026-02-26T12:16:00Z",
-        "UpdatedUtc": "2026-02-26T12:16:00Z",
-        "IsDeleted": false,
-        "ElementId": "bee75a7b-523c-4cd5-ae4d-c0c6b1fe11ec",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 017 for element PW-017",
-        "inspectionDateUtc": "2026-02-26T11:56:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/bee75a7b-523c-4cd5-ae4d-c0c6b1fe11ec/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "2a602a81-a8dd-4f58-852f-f1d2551ec4ae",
-        "CreatedUtc": "2026-02-25T12:27:00Z",
-        "UpdatedUtc": "2026-02-25T12:27:00Z",
-        "IsDeleted": false,
-        "ElementId": "9b86392d-ac5d-44a4-bbf6-b3d8548bf8aa",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 018 for element VL-018",
-        "inspectionDateUtc": "2026-02-25T12:07:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/9b86392d-ac5d-44a4-bbf6-b3d8548bf8aa/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "2309c694-b9df-4897-ae5a-2cead39790ba",
-        "CreatedUtc": "2026-03-14T12:38:00Z",
-        "UpdatedUtc": "2026-03-14T12:38:00Z",
-        "IsDeleted": false,
-        "ElementId": "a63e67ff-02fa-4b14-8b2c-915a07fcc8f5",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 019 for element VB-019",
-        "inspectionDateUtc": "2026-03-14T12:18:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/a63e67ff-02fa-4b14-8b2c-915a07fcc8f5/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "18e4bde1-5050-4e28-8a3d-cf267794d168",
-        "CreatedUtc": "2026-03-13T12:49:00Z",
-        "UpdatedUtc": "2026-03-13T12:49:00Z",
-        "IsDeleted": false,
-        "ElementId": "5130b8e6-e6d8-40e2-ac85-b61b1b1920f0",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 020 for element DL-020",
-        "inspectionDateUtc": "2026-03-13T12:29:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/5130b8e6-e6d8-40e2-ac85-b61b1b1920f0/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "ca9afb6a-1914-47a1-88cb-9502abe05a62",
-        "CreatedUtc": "2026-03-12T13:00:00Z",
-        "UpdatedUtc": "2026-03-12T13:00:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2a02f53-290c-4957-a47d-ee2a86ae619b",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 021 for element PW-021",
-        "inspectionDateUtc": "2026-03-12T12:40:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/f2a02f53-290c-4957-a47d-ee2a86ae619b/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "842e4613-a560-429c-8b75-521fa77c8170",
-        "CreatedUtc": "2026-03-11T13:11:00Z",
-        "UpdatedUtc": "2026-03-11T13:11:00Z",
-        "IsDeleted": false,
-        "ElementId": "3d57ab53-1a6f-4de9-b6d1-f2875d3b7ba6",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 022 for element VL-022",
-        "inspectionDateUtc": "2026-03-11T12:51:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/3d57ab53-1a6f-4de9-b6d1-f2875d3b7ba6/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "97ce1086-f690-4423-aba0-7abd9ad95a17",
-        "CreatedUtc": "2026-03-10T13:22:00Z",
-        "UpdatedUtc": "2026-03-10T13:22:00Z",
-        "IsDeleted": false,
-        "ElementId": "c7badb29-8c18-4bcf-a4f3-66f76552cedf",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 023 for element VB-023",
-        "inspectionDateUtc": "2026-03-10T13:02:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/c7badb29-8c18-4bcf-a4f3-66f76552cedf/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "27effc10-01ac-4708-b612-8d2237b9038e",
-        "CreatedUtc": "2026-03-09T13:33:00Z",
-        "UpdatedUtc": "2026-03-09T13:33:00Z",
-        "IsDeleted": false,
-        "ElementId": "aa86692b-fd8b-46e9-a779-969acd0a960f",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 024 for element DL-024",
-        "inspectionDateUtc": "2026-03-09T13:13:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/aa86692b-fd8b-46e9-a779-969acd0a960f/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "8cd4b6ba-fc55-4030-87e4-3925e309b409",
-        "CreatedUtc": "2026-03-08T13:44:00Z",
-        "UpdatedUtc": "2026-03-08T13:44:00Z",
-        "IsDeleted": false,
-        "ElementId": "d2f1170b-7f5b-4790-af9f-914817b18e62",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 025 for element PW-025",
-        "inspectionDateUtc": "2026-03-08T13:24:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/d2f1170b-7f5b-4790-af9f-914817b18e62/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "0e511134-ae0a-48de-ac43-507a0db635a2",
-        "CreatedUtc": "2026-03-07T13:55:00Z",
-        "UpdatedUtc": "2026-03-07T13:55:00Z",
-        "IsDeleted": false,
-        "ElementId": "a8839824-0aed-445e-9a88-09ac3a020c53",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 026 for element VL-026",
-        "inspectionDateUtc": "2026-03-07T13:35:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/a8839824-0aed-445e-9a88-09ac3a020c53/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "da3a5bf4-6fc5-4118-a04e-b6dc90401517",
-        "CreatedUtc": "2026-03-06T14:06:00Z",
-        "UpdatedUtc": "2026-03-06T14:06:00Z",
-        "IsDeleted": false,
-        "ElementId": "40a80ac5-c50e-4409-b698-022f6b57de0c",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 027 for element VB-027",
-        "inspectionDateUtc": "2026-03-06T13:46:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/40a80ac5-c50e-4409-b698-022f6b57de0c/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "5be4fc1f-c39e-4573-8730-466e2bc9539a",
-        "CreatedUtc": "2026-03-05T14:17:00Z",
-        "UpdatedUtc": "2026-03-05T14:17:00Z",
-        "IsDeleted": false,
-        "ElementId": "c9b1a6c6-6ddb-4a36-ae5c-664e88c98aee",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 028 for element DL-028",
-        "inspectionDateUtc": "2026-03-05T13:57:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/c9b1a6c6-6ddb-4a36-ae5c-664e88c98aee/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "2f9b1f2b-5f51-46e1-bb35-a002d71b7fd4",
-        "CreatedUtc": "2026-03-04T14:28:00Z",
-        "UpdatedUtc": "2026-03-04T14:28:00Z",
-        "IsDeleted": false,
-        "ElementId": "1c5b392d-85cd-49e4-9521-8a7ebc8fd2c7",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 029 for element PW-029",
-        "inspectionDateUtc": "2026-03-04T14:08:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/1c5b392d-85cd-49e4-9521-8a7ebc8fd2c7/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "04a19881-7df5-480b-af09-2db0efcc4c5f",
-        "CreatedUtc": "2026-03-03T14:39:00Z",
-        "UpdatedUtc": "2026-03-03T14:39:00Z",
-        "IsDeleted": false,
-        "ElementId": "2fa4ae36-466b-4771-a094-e9f55943d029",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 030 for element VL-030",
-        "inspectionDateUtc": "2026-03-03T14:19:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/2fa4ae36-466b-4771-a094-e9f55943d029/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "afb5fbe7-d3d7-4af2-9d53-07a9c602b43f",
-        "CreatedUtc": "2026-03-02T14:50:00Z",
-        "UpdatedUtc": "2026-03-02T14:50:00Z",
-        "IsDeleted": false,
-        "ElementId": "cf365561-3534-4a31-840a-45758aa9204c",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 031 for element VB-031",
-        "inspectionDateUtc": "2026-03-02T14:30:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/cf365561-3534-4a31-840a-45758aa9204c/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "6be3f982-fbb3-44f4-ad88-fdd3876d3d4d",
-        "CreatedUtc": "2026-03-01T15:01:00Z",
-        "UpdatedUtc": "2026-03-01T15:01:00Z",
-        "IsDeleted": false,
-        "ElementId": "31ee5924-526f-4e98-84e0-4bfbe6938cea",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 032 for element DL-032",
-        "inspectionDateUtc": "2026-03-01T14:41:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/31ee5924-526f-4e98-84e0-4bfbe6938cea/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "63cf86cf-8026-4a27-9160-ede83f2c1a3c",
-        "CreatedUtc": "2026-02-28T15:12:00Z",
-        "UpdatedUtc": "2026-02-28T15:12:00Z",
-        "IsDeleted": false,
-        "ElementId": "9dd5cebc-ab54-41c6-91d1-3cafbeb88e1a",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 3,
-        "Comments": "Inspection 033 for element PW-033",
-        "inspectionDateUtc": "2026-02-28T14:52:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/9dd5cebc-ab54-41c6-91d1-3cafbeb88e1a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "7fe8305a-a855-4aa4-96a6-d7c5d3cfdaae",
-        "CreatedUtc": "2026-02-27T15:23:00Z",
-        "UpdatedUtc": "2026-02-27T15:23:00Z",
-        "IsDeleted": false,
-        "ElementId": "3e475742-6580-4d25-b3b3-e312f67b017c",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 1,
-        "Comments": "Inspection 034 for element VL-034",
-        "inspectionDateUtc": "2026-02-27T15:03:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/3e475742-6580-4d25-b3b3-e312f67b017c/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "10ee5567-4791-418b-b365-7738567d6498",
-        "CreatedUtc": "2026-02-26T15:34:00Z",
-        "UpdatedUtc": "2026-02-26T15:34:00Z",
-        "IsDeleted": false,
-        "ElementId": "d09f4ae1-dec3-465e-890a-0cda5a1d9331",
-        "DiagramId": "18c66e3a-4823-49c0-b401-50633db9d7e6",
-        "Status": 2,
-        "Comments": "Inspection 035 for element VB-035",
-        "inspectionDateUtc": "2026-02-26T15:14:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/d09f4ae1-dec3-465e-890a-0cda5a1d9331/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "0605426e-1634-4325-bada-1282afce1b62",
-        "CreatedUtc": "2026-02-25T15:45:00Z",
-        "UpdatedUtc": "2026-02-25T15:45:00Z",
-        "IsDeleted": false,
-        "ElementId": "aaaf54d4-bd48-4867-984b-e0a00244e347",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 036 for element DL-036",
-        "inspectionDateUtc": "2026-02-25T15:25:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/aaaf54d4-bd48-4867-984b-e0a00244e347/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "52cfd70a-d6eb-4a69-8bf2-6f99d4cc5bb4",
-        "CreatedUtc": "2026-03-14T15:56:00Z",
-        "UpdatedUtc": "2026-03-14T15:56:00Z",
-        "IsDeleted": false,
-        "ElementId": "bc59c1f7-933c-4deb-918a-b5d883a08894",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 037 for element PW-037",
-        "inspectionDateUtc": "2026-03-14T15:36:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/bc59c1f7-933c-4deb-918a-b5d883a08894/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "1329db60-ab7e-4ef6-99b8-db7129dd37d8",
-        "CreatedUtc": "2026-03-13T16:07:00Z",
-        "UpdatedUtc": "2026-03-13T16:07:00Z",
-        "IsDeleted": false,
-        "ElementId": "4707655d-ca26-48b1-996c-962b990fc31a",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 038 for element VL-038",
-        "inspectionDateUtc": "2026-03-13T15:47:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/4707655d-ca26-48b1-996c-962b990fc31a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "1b276f15-97cd-4d9d-8da9-838b63c213e4",
-        "CreatedUtc": "2026-03-12T16:18:00Z",
-        "UpdatedUtc": "2026-03-12T16:18:00Z",
-        "IsDeleted": false,
-        "ElementId": "3849a3af-e650-453e-8052-22ddf125d2b7",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 039 for element VB-039",
-        "inspectionDateUtc": "2026-03-12T15:58:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/3849a3af-e650-453e-8052-22ddf125d2b7/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "76b9ba1b-d5c1-4dc9-a534-e1fdb4c13819",
-        "CreatedUtc": "2026-03-11T16:29:00Z",
-        "UpdatedUtc": "2026-03-11T16:29:00Z",
-        "IsDeleted": false,
-        "ElementId": "e7d51019-ad63-401e-a346-bef37e2ade94",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 040 for element DL-040",
-        "inspectionDateUtc": "2026-03-11T16:09:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/e7d51019-ad63-401e-a346-bef37e2ade94/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "dc434a13-fb52-44d5-a7be-aee096979188",
-        "CreatedUtc": "2026-03-10T16:40:00Z",
-        "UpdatedUtc": "2026-03-10T16:40:00Z",
-        "IsDeleted": false,
-        "ElementId": "07fd7f67-1d02-4c0f-a7fb-282cdce01aaf",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 041 for element PW-041",
-        "inspectionDateUtc": "2026-03-10T16:20:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/07fd7f67-1d02-4c0f-a7fb-282cdce01aaf/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "a7a6e01b-fbeb-44b8-bd83-b32c31a46822",
-        "CreatedUtc": "2026-03-09T16:51:00Z",
-        "UpdatedUtc": "2026-03-09T16:51:00Z",
-        "IsDeleted": false,
-        "ElementId": "8d14cfea-9121-428f-b45f-dbc6db6f32a1",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 042 for element VL-042",
-        "inspectionDateUtc": "2026-03-09T16:31:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/8d14cfea-9121-428f-b45f-dbc6db6f32a1/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "b47ccc17-599b-4e90-8e69-5f74323b9294",
-        "CreatedUtc": "2026-03-08T17:02:00Z",
-        "UpdatedUtc": "2026-03-08T17:02:00Z",
-        "IsDeleted": false,
-        "ElementId": "a3ee6be2-2bda-497e-bd26-aa532986245c",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 043 for element VB-043",
-        "inspectionDateUtc": "2026-03-08T16:42:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/a3ee6be2-2bda-497e-bd26-aa532986245c/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "300bfc70-51da-4b03-b470-a36b193647a3",
-        "CreatedUtc": "2026-03-07T17:13:00Z",
-        "UpdatedUtc": "2026-03-07T17:13:00Z",
-        "IsDeleted": false,
-        "ElementId": "d7c1b120-cf7b-44cc-8e11-5998b28eece8",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 044 for element DL-044",
-        "inspectionDateUtc": "2026-03-07T16:53:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/d7c1b120-cf7b-44cc-8e11-5998b28eece8/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "fb4096cc-d0f6-496a-b94f-68c8be72eed8",
-        "CreatedUtc": "2026-03-06T17:24:00Z",
-        "UpdatedUtc": "2026-03-06T17:24:00Z",
-        "IsDeleted": false,
-        "ElementId": "58f68e65-02ab-42a5-a74d-cab58809565a",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 045 for element PW-045",
-        "inspectionDateUtc": "2026-03-06T17:04:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/58f68e65-02ab-42a5-a74d-cab58809565a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "33429adb-fce1-4699-82ed-57b11b338180",
-        "CreatedUtc": "2026-03-05T17:35:00Z",
-        "UpdatedUtc": "2026-03-05T17:35:00Z",
-        "IsDeleted": false,
-        "ElementId": "5db9290b-706a-40c0-8a34-c15f5100bbd3",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 046 for element VL-046",
-        "inspectionDateUtc": "2026-03-05T17:15:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/5db9290b-706a-40c0-8a34-c15f5100bbd3/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "f4fe39d5-d74c-414d-8d16-2096c443fcb5",
-        "CreatedUtc": "2026-03-04T17:46:00Z",
-        "UpdatedUtc": "2026-03-04T17:46:00Z",
-        "IsDeleted": false,
-        "ElementId": "0238d013-1091-46a8-af6c-bcfdf35be57c",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 047 for element VB-047",
-        "inspectionDateUtc": "2026-03-04T17:26:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/0238d013-1091-46a8-af6c-bcfdf35be57c/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "bd4fae68-29b8-4f8d-864e-ef27d1471443",
-        "CreatedUtc": "2026-03-03T17:57:00Z",
-        "UpdatedUtc": "2026-03-03T17:57:00Z",
-        "IsDeleted": false,
-        "ElementId": "82829483-4bb1-4a67-82d1-a627dfd1b619",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 048 for element DL-048",
-        "inspectionDateUtc": "2026-03-03T17:37:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/82829483-4bb1-4a67-82d1-a627dfd1b619/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "023f4a8c-bcee-40c2-a8e4-db3642b9b017",
-        "CreatedUtc": "2026-03-02T18:08:00Z",
-        "UpdatedUtc": "2026-03-02T18:08:00Z",
-        "IsDeleted": false,
-        "ElementId": "7c2aa3c5-bab5-4e75-baac-2a76c5af1999",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 049 for element PW-049",
-        "inspectionDateUtc": "2026-03-02T17:48:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/7c2aa3c5-bab5-4e75-baac-2a76c5af1999/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "8ab75c1e-3249-4fc7-aba5-3840e465a935",
-        "CreatedUtc": "2026-03-01T18:19:00Z",
-        "UpdatedUtc": "2026-03-01T18:19:00Z",
-        "IsDeleted": false,
-        "ElementId": "fe00e45a-c6be-418c-bd66-4bf79cb5b6ff",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 050 for element VL-050",
-        "inspectionDateUtc": "2026-03-01T17:59:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/fe00e45a-c6be-418c-bd66-4bf79cb5b6ff/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "b29acd72-cb3d-418d-bda4-9f08232fed5a",
-        "CreatedUtc": "2026-02-28T18:30:00Z",
-        "UpdatedUtc": "2026-02-28T18:30:00Z",
-        "IsDeleted": false,
-        "ElementId": "d6ede133-cda0-4ff1-9108-624a59cfc0f4",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 051 for element VB-051",
-        "inspectionDateUtc": "2026-02-28T18:10:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/d6ede133-cda0-4ff1-9108-624a59cfc0f4/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "2439eea6-8bf9-4928-a862-737fadf11856",
-        "CreatedUtc": "2026-02-27T18:41:00Z",
-        "UpdatedUtc": "2026-02-27T18:41:00Z",
-        "IsDeleted": false,
-        "ElementId": "0dd07834-c020-450e-8710-d2a6cf0ac5f6",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 052 for element DL-052",
-        "inspectionDateUtc": "2026-02-27T18:21:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/0dd07834-c020-450e-8710-d2a6cf0ac5f6/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "f8260ad5-7e48-463d-b2ff-8e5f18755b8e",
-        "CreatedUtc": "2026-02-26T18:52:00Z",
-        "UpdatedUtc": "2026-02-26T18:52:00Z",
-        "IsDeleted": false,
-        "ElementId": "07349aeb-48ea-44cb-be00-b1824629fe5f",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 053 for element PW-053",
-        "inspectionDateUtc": "2026-02-26T18:32:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/07349aeb-48ea-44cb-be00-b1824629fe5f/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "87cd8c22-d7bb-4cd1-9c5c-cbdf38bcb2a0",
-        "CreatedUtc": "2026-02-25T19:03:00Z",
-        "UpdatedUtc": "2026-02-25T19:03:00Z",
-        "IsDeleted": false,
-        "ElementId": "8c8261ee-b741-42ec-a45e-264e8661dd85",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 054 for element VL-054",
-        "inspectionDateUtc": "2026-02-25T18:43:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/8c8261ee-b741-42ec-a45e-264e8661dd85/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "776ddfca-b765-42be-93fc-c4fefebec817",
-        "CreatedUtc": "2026-03-14T19:14:00Z",
-        "UpdatedUtc": "2026-03-14T19:14:00Z",
-        "IsDeleted": false,
-        "ElementId": "92223c96-225d-467c-bbb8-73271270ad3d",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 055 for element VB-055",
-        "inspectionDateUtc": "2026-03-14T18:54:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/92223c96-225d-467c-bbb8-73271270ad3d/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "faa3cbb2-65a8-4f59-915a-1d71cbf13aa6",
-        "CreatedUtc": "2026-03-13T19:25:00Z",
-        "UpdatedUtc": "2026-03-13T19:25:00Z",
-        "IsDeleted": false,
-        "ElementId": "c43d4e13-b073-4ee2-8e15-70a19c8baac3",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 056 for element DL-056",
-        "inspectionDateUtc": "2026-03-13T19:05:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/c43d4e13-b073-4ee2-8e15-70a19c8baac3/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "e8b2dd75-8ef6-4780-af2d-720ac728f14c",
-        "CreatedUtc": "2026-03-12T19:36:00Z",
-        "UpdatedUtc": "2026-03-12T19:36:00Z",
-        "IsDeleted": false,
-        "ElementId": "54183bb6-9fd2-4473-ac85-f9c42f728a99",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 057 for element PW-057",
-        "inspectionDateUtc": "2026-03-12T19:16:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/54183bb6-9fd2-4473-ac85-f9c42f728a99/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "715883fe-a0ea-42d7-8868-447a9e61d7c5",
-        "CreatedUtc": "2026-03-11T19:47:00Z",
-        "UpdatedUtc": "2026-03-11T19:47:00Z",
-        "IsDeleted": false,
-        "ElementId": "7c8cfd73-a3e4-465a-8be7-1551cde0095a",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 058 for element VL-058",
-        "inspectionDateUtc": "2026-03-11T19:27:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/7c8cfd73-a3e4-465a-8be7-1551cde0095a/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "acd1dfa5-b168-4b70-af5d-13640bb5f612",
-        "CreatedUtc": "2026-03-10T19:58:00Z",
-        "UpdatedUtc": "2026-03-10T19:58:00Z",
-        "IsDeleted": false,
-        "ElementId": "f2c3c094-f3ca-4977-88c8-dbe67816feb0",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 059 for element VB-059",
-        "inspectionDateUtc": "2026-03-10T19:38:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/f2c3c094-f3ca-4977-88c8-dbe67816feb0/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "a18b5b55-fe93-49d0-96c1-c8e7b471f9c6",
-        "CreatedUtc": "2026-03-09T20:09:00Z",
-        "UpdatedUtc": "2026-03-09T20:09:00Z",
-        "IsDeleted": false,
-        "ElementId": "43e49adb-c18d-4520-a7ba-4c7d213a34fe",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 060 for element DL-060",
-        "inspectionDateUtc": "2026-03-09T19:49:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/43e49adb-c18d-4520-a7ba-4c7d213a34fe/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "dfd0311a-e940-49d1-ab3f-7e925a9db139",
-        "CreatedUtc": "2026-03-08T20:20:00Z",
-        "UpdatedUtc": "2026-03-08T20:20:00Z",
-        "IsDeleted": false,
-        "ElementId": "ecc3c985-a5fe-435d-9f39-c4b20c61544e",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 061 for element PW-061",
-        "inspectionDateUtc": "2026-03-08T20:00:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/ecc3c985-a5fe-435d-9f39-c4b20c61544e/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "a254c7f5-792a-4e6b-b64b-454d1d62adfa",
-        "CreatedUtc": "2026-03-07T20:31:00Z",
-        "UpdatedUtc": "2026-03-07T20:31:00Z",
-        "IsDeleted": false,
-        "ElementId": "905ef6de-c8a6-4e01-837b-060d92a40f1a",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 062 for element VL-062",
-        "inspectionDateUtc": "2026-03-07T20:11:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/905ef6de-c8a6-4e01-837b-060d92a40f1a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "531a6fb4-06a4-4b33-b442-597d8b545099",
-        "CreatedUtc": "2026-03-06T20:42:00Z",
-        "UpdatedUtc": "2026-03-06T20:42:00Z",
-        "IsDeleted": false,
-        "ElementId": "7a5e09df-7899-432a-bf7e-4fac0752a700",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 063 for element VB-063",
-        "inspectionDateUtc": "2026-03-06T20:22:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/7a5e09df-7899-432a-bf7e-4fac0752a700/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "91f31c34-8de4-4a6e-96a4-878201f348f2",
-        "CreatedUtc": "2026-03-05T20:53:00Z",
-        "UpdatedUtc": "2026-03-05T20:53:00Z",
-        "IsDeleted": false,
-        "ElementId": "c931b92c-f24a-495c-9b8d-e29755a0e377",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 064 for element DL-064",
-        "inspectionDateUtc": "2026-03-05T20:33:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/c931b92c-f24a-495c-9b8d-e29755a0e377/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "5220e5e4-7e2b-4148-a48c-2677a8261dd5",
-        "CreatedUtc": "2026-03-04T21:04:00Z",
-        "UpdatedUtc": "2026-03-04T21:04:00Z",
-        "IsDeleted": false,
-        "ElementId": "2ae2fb72-9dfb-4b44-8556-d98e56114d69",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 065 for element PW-065",
-        "inspectionDateUtc": "2026-03-04T20:44:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/2ae2fb72-9dfb-4b44-8556-d98e56114d69/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "fe1f79c6-852c-42c7-8cc8-7ac3707c2cbc",
-        "CreatedUtc": "2026-03-03T21:15:00Z",
-        "UpdatedUtc": "2026-03-03T21:15:00Z",
-        "IsDeleted": false,
-        "ElementId": "72196166-bfa6-4ee3-98ef-bdf11e7eb98d",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 066 for element VL-066",
-        "inspectionDateUtc": "2026-03-03T20:55:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/72196166-bfa6-4ee3-98ef-bdf11e7eb98d/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "82baff73-150a-4c18-9c28-6d441eeb1796",
-        "CreatedUtc": "2026-03-02T21:26:00Z",
-        "UpdatedUtc": "2026-03-02T21:26:00Z",
-        "IsDeleted": false,
-        "ElementId": "52ea7539-9b7a-46e3-ab96-a345e1a9d9dd",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 067 for element VB-067",
-        "inspectionDateUtc": "2026-03-02T21:06:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/52ea7539-9b7a-46e3-ab96-a345e1a9d9dd/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "70c37e3e-c1be-4fea-8ec5-c4a7ab8a1a56",
-        "CreatedUtc": "2026-03-01T21:37:00Z",
-        "UpdatedUtc": "2026-03-01T21:37:00Z",
-        "IsDeleted": false,
-        "ElementId": "249466bd-faf2-460e-a0ec-04396bd79598",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 068 for element DL-068",
-        "inspectionDateUtc": "2026-03-01T21:17:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/249466bd-faf2-460e-a0ec-04396bd79598/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "9cf6d41d-5a1a-40c6-9314-ffc981e406f6",
-        "CreatedUtc": "2026-02-28T21:48:00Z",
-        "UpdatedUtc": "2026-02-28T21:48:00Z",
-        "IsDeleted": false,
-        "ElementId": "34fd8e21-8489-4a19-af32-a882f0ad70ef",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 069 for element PW-069",
-        "inspectionDateUtc": "2026-02-28T21:28:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/34fd8e21-8489-4a19-af32-a882f0ad70ef/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "e912fcbe-b8ed-4aa9-9117-27408505fa96",
-        "CreatedUtc": "2026-02-27T21:59:00Z",
-        "UpdatedUtc": "2026-02-27T21:59:00Z",
-        "IsDeleted": false,
-        "ElementId": "03cbb256-67db-4129-b6fc-b61d370affb7",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 070 for element VL-070",
-        "inspectionDateUtc": "2026-02-27T21:39:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/03cbb256-67db-4129-b6fc-b61d370affb7/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "4fcf9a3f-c9de-43e4-bd4a-e0ee74d5bb46",
-        "CreatedUtc": "2026-02-26T22:10:00Z",
-        "UpdatedUtc": "2026-02-26T22:10:00Z",
-        "IsDeleted": false,
-        "ElementId": "91d17351-b524-475b-bbad-0e839da8e9f6",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 071 for element VB-071",
-        "inspectionDateUtc": "2026-02-26T21:50:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/91d17351-b524-475b-bbad-0e839da8e9f6/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "be3972ec-256f-4206-9640-f3cdabef154f",
-        "CreatedUtc": "2026-02-25T22:21:00Z",
-        "UpdatedUtc": "2026-02-25T22:21:00Z",
-        "IsDeleted": false,
-        "ElementId": "e4eb1b57-f75a-4b48-8843-2b6b921adc43",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 072 for element DL-072",
-        "inspectionDateUtc": "2026-02-25T22:01:00Z",
-        "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/e4eb1b57-f75a-4b48-8843-2b6b921adc43/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
-    },
-    {
-        "Id": "8fa23961-88f7-41cd-9f01-a75960683444",
-        "CreatedUtc": "2026-03-14T22:32:00Z",
-        "UpdatedUtc": "2026-03-14T22:32:00Z",
-        "IsDeleted": false,
-        "ElementId": "3c41b8fc-210f-47c4-a93f-12bdf5b123a6",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 1,
-        "Comments": "Inspection 073 for element PW-073",
-        "inspectionDateUtc": "2026-03-14T22:12:00Z",
-        "User": {
-            "PlayFabId": "2f720a63-4beb-4cc9-b7ab-c90b78b79540",
-            "DisplayName": "J.Silva",
-            "Email": "j.silva@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/3c41b8fc-210f-47c4-a93f-12bdf5b123a6/photo-001.jpg"
-            }
-        ],
-        "Actions": []
-    },
-    {
-        "Id": "89a8b327-8e31-4e49-b39a-d4e8bae00e55",
-        "CreatedUtc": "2026-03-13T22:43:00Z",
-        "UpdatedUtc": "2026-03-13T22:43:00Z",
-        "IsDeleted": false,
-        "ElementId": "bbb02cf9-6b25-45d9-bd29-6a12ac7b557e",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 2,
-        "Comments": "Inspection 074 for element VL-074",
-        "inspectionDateUtc": "2026-03-13T22:23:00Z",
-        "User": {
-            "PlayFabId": "84b6d4fb-94ff-4908-abfa-8bf46f1925aa",
-            "DisplayName": "A.Costa",
-            "Email": "a.costa@subsea7.com"
-        },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/bbb02cf9-6b25-45d9-bd29-6a12ac7b557e/photo-001.jpg"
-            }
         ],
-        "Actions": [
-            1,
-            2
-        ]
-    },
-    {
-        "Id": "bc26621e-b433-4437-a9bd-df11e4297e75",
-        "CreatedUtc": "2026-03-12T22:54:00Z",
-        "UpdatedUtc": "2026-03-12T22:54:00Z",
-        "IsDeleted": false,
-        "ElementId": "19833a18-ae08-4edd-ac20-3a7c1bbcb41a",
-        "DiagramId": "b02c119d-73ca-4578-a88f-9246361474cf",
-        "Status": 3,
-        "Comments": "Inspection 075 for element VB-075",
-        "inspectionDateUtc": "2026-03-12T22:34:00Z",
+        "Comments": "Auto-generated test data",
+        "InspectionDateUtc": "2024-09-21T22:20:49Z",
         "User": {
-            "PlayFabId": "edf99408-e179-44eb-8eba-e3c7d0fa7e72",
-            "DisplayName": "M.Pereira",
-            "Email": "m.pereira@subsea7.com"
+            "EntityId": "Rafael Souza",
+            "EntityType": "master_player_account"
         },
-        "Photos": [
-            {
-                "Url": "https://example.blob.core.windows.net/tls-uploads/inspections/19833a18-ae08-4edd-ac20-3a7c1bbcb41a/photo-001.jpg"
-            }
-        ],
-        "Actions": [
-            1,
-            2,
-            3
-        ]
+        "Photos": []
     }
 ]
